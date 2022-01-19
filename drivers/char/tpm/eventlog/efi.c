@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (C) 2017 Google
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *      Thiebaud Weksteen <tweek@google.com>

@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2014 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  * Jarkko Sakkinen <jarkko.sakkinen@linux.intel.com>

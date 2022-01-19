@@ -2,6 +2,7 @@
  * Telecom Clock driver for Intel NetStructure(tm) MPCBL0010
  *
  * Copyright (C) 2005 Kontron Canada
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * All rights reserved.
  *
