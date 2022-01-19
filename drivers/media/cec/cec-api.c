@@ -3,6 +3,7 @@
  * cec-api.c - HDMI Consumer Electronics Control framework - API
  *
  * Copyright 2016 Cisco Systems, Inc. and/or its affiliates. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/errno.h>

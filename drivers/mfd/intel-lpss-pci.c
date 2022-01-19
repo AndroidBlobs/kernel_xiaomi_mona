@@ -3,6 +3,7 @@
  * Intel LPSS PCI support.
  *
  * Copyright (C) 2015, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors: Andy Shevchenko <andriy.shevchenko@linux.intel.com>
  *          Mika Westerberg <mika.westerberg@linux.intel.com>

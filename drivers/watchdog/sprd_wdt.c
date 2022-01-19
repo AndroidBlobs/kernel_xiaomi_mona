@@ -2,6 +2,7 @@
 /*
  * Spreadtrum watchdog driver
  * Copyright (C) 2017 Spreadtrum - http://www.spreadtrum.com
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitops.h>

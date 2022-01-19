@@ -2,6 +2,7 @@
 /*
  *  Force feedback support for AKSYS QRD USB adapter
  *   Copyright (c) 2020, Daniel@AKsys <daniel@aksys.co.kr>
+ *   Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /* #define DEBUG */

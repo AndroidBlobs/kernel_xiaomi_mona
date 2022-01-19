@@ -5,6 +5,7 @@
  *  Maintained by:  Tejun Heo <tj@kernel.org>
  *
  *  Copyright 2005 Mark Lord
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  libata documentation is available via 'make {ps|pdf}docs',
  *  as Documentation/driver-api/libata.rst

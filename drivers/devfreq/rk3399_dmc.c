@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2016, Fuzhou Rockchip Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Lin Huang <hl@rock-chips.com>
  */
 

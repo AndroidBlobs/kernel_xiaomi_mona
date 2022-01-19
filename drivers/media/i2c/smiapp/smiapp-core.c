@@ -5,6 +5,7 @@
  * Generic driver for SMIA/SMIA++ compliant camera modules
  *
  * Copyright (C) 2010--2012 Nokia Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Contact: Sakari Ailus <sakari.ailus@iki.fi>
  *
  * Based on smiapp driver by Vimarsh Zutshi

@@ -3,6 +3,7 @@
  * I2C bus driver for Amlogic Meson SoCs
  *
  * Copyright (C) 2014 Beniamino Galvani <b.galvani@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitfield.h>

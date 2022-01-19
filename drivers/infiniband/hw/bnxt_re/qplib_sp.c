@@ -2,6 +2,7 @@
  * Broadcom NetXtreme-E RoCE driver.
  *
  * Copyright (c) 2016 - 2017, Broadcom. All rights reserved.  The term
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Broadcom refers to Broadcom Limited and/or its subsidiaries.
  *
  * This software is available to you under a choice of one of two

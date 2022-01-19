@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2017 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Texas Instruments DDR3 ECC error correction and detection driver
  *

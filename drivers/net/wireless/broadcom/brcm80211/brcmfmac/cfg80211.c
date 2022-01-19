@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: ISC
 /*
  * Copyright (c) 2010 Broadcom Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /* Toplevel file. Relies on dhd_linux.c to send commands to the dongle. */

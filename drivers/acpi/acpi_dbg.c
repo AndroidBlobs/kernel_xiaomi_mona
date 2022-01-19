@@ -3,6 +3,7 @@
  * ACPI AML interfacing support
  *
  * Copyright (C) 2015, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Lv Zheng <lv.zheng@intel.com>
  */
 

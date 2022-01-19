@@ -3,6 +3,7 @@
  * CoreNet Coherency Fabric error reporting
  *
  * Copyright 2014 Freescale Semiconductor Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/interrupt.h>

@@ -3,6 +3,7 @@
  * drivers/net/macsec.c - MACsec device
  *
  * Copyright (c) 2015 Sabrina Dubroca <sd@queasysnail.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

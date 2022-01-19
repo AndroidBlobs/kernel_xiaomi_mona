@@ -2,6 +2,7 @@
 /*
  * HID Sensors Driver
  * Copyright (c) 2012, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/device.h>

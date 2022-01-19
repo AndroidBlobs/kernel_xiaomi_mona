@@ -2,6 +2,7 @@
  * AHCI glue platform driver for Marvell EBU SOCs
  *
  * Copyright (C) 2014 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Thomas Petazzoni <thomas.petazzoni@free-electrons.com>
  * Marcin Wojtas <mw@semihalf.com>

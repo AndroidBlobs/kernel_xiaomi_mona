@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (c) 2014-2015 Hisilicon Limited.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

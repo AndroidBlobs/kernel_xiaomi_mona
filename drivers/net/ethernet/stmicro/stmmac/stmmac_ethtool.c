@@ -3,6 +3,7 @@
   STMMAC Ethtool support
 
   Copyright (C) 2007-2009  STMicroelectronics Ltd
+  Copyright (C) 2021 XiaoMi, Inc.
 
 
   Author: Giuseppe Cavallaro <peppe.cavallaro@st.com>

@@ -3,6 +3,7 @@
  * Samsung SoC USB 1.1/2.0 PHY driver - S5PV210 support
  *
  * Copyright (C) 2013 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Kamil Debski <k.debski@samsung.com>
  */
 

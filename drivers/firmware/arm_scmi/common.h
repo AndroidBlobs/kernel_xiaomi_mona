@@ -5,6 +5,7 @@
  * and function prototypes used in all the different SCMI protocols.
  *
  * Copyright (C) 2018 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitfield.h>

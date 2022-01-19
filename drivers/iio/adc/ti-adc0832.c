@@ -3,6 +3,7 @@
  * ADC0831/ADC0832/ADC0834/ADC0838 8-bit ADC driver
  *
  * Copyright (c) 2016 Akinobu Mita <akinobu.mita@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Datasheet: http://www.ti.com/lit/ds/symlink/adc0832-n.pdf
  */

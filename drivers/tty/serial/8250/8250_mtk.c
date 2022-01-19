@@ -3,6 +3,7 @@
  * Mediatek 8250 driver.
  *
  * Copyright (c) 2014 MundoReader S.L.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Matthias Brugger <matthias.bgg@gmail.com>
  */
 #include <linux/clk.h>

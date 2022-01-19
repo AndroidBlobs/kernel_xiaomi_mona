@@ -5,6 +5,7 @@
  *  Maintained by:  Mark Lord <mlord@pobox.com>
  *
  *  Copyright 2005 Pacific Digital Corporation.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  (OSL/GPL code release authorized by Jalil Fadavi).
  *
  *  libata documentation is available via 'make {ps|pdf}docs',

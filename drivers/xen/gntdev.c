@@ -5,6 +5,7 @@
  * domains.
  *
  * Copyright (c) 2006-2007, D G Murray.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *           (c) 2009 Gerd Hoffmann <kraxel@redhat.com>
  *           (c) 2018 Oleksandr Andrushchenko, EPAM Systems Inc.
  *

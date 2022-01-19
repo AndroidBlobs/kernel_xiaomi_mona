@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // Copyright (C) 2018 Spreadtrum Communications Inc.
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/clk.h>
 #include <linux/dmaengine.h>

@@ -3,6 +3,7 @@
  * Synopsys DesignWare PCIe Endpoint controller driver
  *
  * Copyright (C) 2017 Texas Instruments
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Kishon Vijay Abraham I <kishon@ti.com>
  */
 

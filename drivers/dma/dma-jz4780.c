@@ -3,6 +3,7 @@
  * Ingenic JZ4780 DMA controller
  *
  * Copyright (c) 2015 Imagination Technologies
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Alex Smith <alex@alex-smith.me.uk>
  */
 

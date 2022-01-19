@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  *  Copyright (C) 1992 obz under the linux copyright
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  Dynamic diacritical handling - aeb@cwi.nl - Dec 1993
  *  Dynamic keymap and string allocation - aeb@cwi.nl - May 1994

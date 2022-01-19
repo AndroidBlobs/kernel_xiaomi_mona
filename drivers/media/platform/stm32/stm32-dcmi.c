@@ -3,6 +3,7 @@
  * Driver for STM32 Digital Camera Memory Interface
  *
  * Copyright (C) STMicroelectronics SA 2017
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Yannick Fertre <yannick.fertre@st.com>
  *          Hugues Fruchet <hugues.fruchet@st.com>
  *          for STMicroelectronics.

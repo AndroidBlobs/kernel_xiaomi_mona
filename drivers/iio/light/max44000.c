@@ -3,6 +3,7 @@
  * MAX44000 Ambient and Infrared Proximity Sensor
  *
  * Copyright (c) 2016, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Data sheet: https://datasheets.maximintegrated.com/en/ds/MAX44000.pdf
  *

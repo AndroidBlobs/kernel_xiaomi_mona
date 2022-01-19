@@ -5,6 +5,7 @@
  * Author: Andres Salomon <dilinger@queued.net>
  *
  * Copyright (C) 2011-2012 One Laptop per Child Foundation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/completion.h>
 #include <linux/debugfs.h>

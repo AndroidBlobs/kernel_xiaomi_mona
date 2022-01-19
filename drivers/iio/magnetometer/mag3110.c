@@ -3,6 +3,7 @@
  * mag3110.c - Support for Freescale MAG3110 magnetometer sensor
  *
  * Copyright (c) 2013 Peter Meerwald <pmeerw@pmeerw.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * (7-bit I2C slave address 0x0e)
  *

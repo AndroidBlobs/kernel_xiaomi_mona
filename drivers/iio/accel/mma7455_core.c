@@ -2,6 +2,7 @@
 /*
  * IIO accel core driver for Freescale MMA7455L 3-axis 10-bit accelerometer
  * Copyright 2015 Joachim Eastwood <manabian@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * UNSUPPORTED hardware features:
  *  - 8-bit mode with different scales

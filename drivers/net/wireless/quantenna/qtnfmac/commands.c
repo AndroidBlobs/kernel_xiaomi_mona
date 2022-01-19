@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /* Copyright (c) 2015-2016 Quantenna Communications. All rights reserved. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/types.h>
 #include <linux/skbuff.h>

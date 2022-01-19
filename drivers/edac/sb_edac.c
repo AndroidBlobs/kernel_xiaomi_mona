@@ -5,6 +5,7 @@
  * processor family Sandy Bridge.
  *
  * Copyright (c) 2011 by:
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	 Mauro Carvalho Chehab
  */
 

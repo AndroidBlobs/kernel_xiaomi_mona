@@ -3,6 +3,7 @@
  *      uvc_entity.c  --  USB Video Class driver
  *
  *      Copyright (C) 2005-2011
+ *      Copyright (C) 2021 XiaoMi, Inc.
  *          Laurent Pinchart (laurent.pinchart@ideasonboard.com)
  */
 

@@ -4,6 +4,7 @@
  * HDLC Ethernet emulation support
  *
  * Copyright (C) 2002-2006 Krzysztof Halasa <khc@pm.waw.pl>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/errno.h>

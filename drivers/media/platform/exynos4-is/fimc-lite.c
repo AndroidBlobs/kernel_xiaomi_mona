@@ -3,6 +3,7 @@
  * Samsung EXYNOS FIMC-LITE (camera host interface) driver
 *
  * Copyright (C) 2012 - 2013 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Sylwester Nawrocki <s.nawrocki@samsung.com>
  */
 #define pr_fmt(fmt) "%s:%d " fmt, __func__, __LINE__

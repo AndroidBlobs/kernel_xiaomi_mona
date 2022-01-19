@@ -2,6 +2,7 @@
 /*
  * NVM Express target device driver tracepoints
  * Copyright (c) 2018 Johannes Thumshirn, SUSE Linux GmbH
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This is entirely based on drivers/nvme/host/trace.h
  */

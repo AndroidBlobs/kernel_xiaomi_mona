@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0 OR BSD-2-Clause
 /* Copyright (C) 2018 KVASER AB, Sweden. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Parts of this driver are based on the following:
  *  - Kvaser linux pciefd driver (version 5.25)
  *  - PEAK linux canfd driver

@@ -3,6 +3,7 @@
  * Marvell Armada XP pinctrl driver based on mvebu pinctrl core
  *
  * Copyright (C) 2012 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Thomas Petazzoni <thomas.petazzoni@free-electrons.com>
  *

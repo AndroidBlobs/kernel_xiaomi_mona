@@ -3,6 +3,7 @@
  * Driver for Marvell PPv2 network controller for Armada 375 SoC.
  *
  * Copyright (C) 2014 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Marcin Wojtas <mw@semihalf.com>
  */

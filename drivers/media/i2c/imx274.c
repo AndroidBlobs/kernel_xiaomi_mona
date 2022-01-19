@@ -3,6 +3,7 @@
  * imx274.c - IMX274 CMOS Image Sensor driver
  *
  * Copyright (C) 2017, Leopard Imaging, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Leon Luo <leonl@leopardimaging.com>
  * Edwin Zou <edwinz@leopardimaging.com>

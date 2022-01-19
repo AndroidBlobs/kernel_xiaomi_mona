@@ -3,6 +3,7 @@
  * Virtio memory mapped device driver
  *
  * Copyright 2011-2014, ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This module allows virtio devices to be used over a virtual, memory mapped
  * platform device.

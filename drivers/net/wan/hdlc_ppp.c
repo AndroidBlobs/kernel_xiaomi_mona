@@ -4,6 +4,7 @@
  * Point-to-point protocol support
  *
  * Copyright (C) 1999 - 2008 Krzysztof Halasa <khc@pm.waw.pl>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/errno.h>

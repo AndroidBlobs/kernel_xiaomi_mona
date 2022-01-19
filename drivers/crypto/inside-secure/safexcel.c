@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2017 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Antoine Tenart <antoine.tenart@free-electrons.com>
  */

@@ -2,6 +2,7 @@
  * GPIO driver for Marvell SoCs
  *
  * Copyright (C) 2012 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Thomas Petazzoni <thomas.petazzoni@free-electrons.com>
  * Andrew Lunn <andrew@lunn.ch>

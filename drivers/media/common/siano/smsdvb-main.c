@@ -4,6 +4,7 @@
 Siano Mobile Silicon, Inc.
 MDTV receiver kernel modules.
 Copyright (C) 2006-2008, Uri Shkolnik
+Copyright (C) 2021 XiaoMi, Inc.
 
 
 ****************************************************************/

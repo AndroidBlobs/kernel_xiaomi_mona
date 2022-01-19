@@ -4,6 +4,7 @@
  * for more details.
  *
  * Copyright (C) 2009-2012 Cavium, Inc
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/platform_device.h>

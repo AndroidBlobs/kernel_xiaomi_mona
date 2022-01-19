@@ -3,6 +3,7 @@
  * This file contains iSCSI extentions for RDMA (iSER) Verbs
  *
  * (c) Copyright 2013 Datera, Inc.
+ * (c) Copyright (C) 2021 XiaoMi, Inc.
  *
  * Nicholas A. Bellinger <nab@linux-iscsi.org>
  *

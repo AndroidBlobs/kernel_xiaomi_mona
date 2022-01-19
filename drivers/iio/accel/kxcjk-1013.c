@@ -2,6 +2,7 @@
 /*
  * KXCJK-1013 3-axis accelerometer driver
  * Copyright (c) 2014, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

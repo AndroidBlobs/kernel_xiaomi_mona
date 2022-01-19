@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
  * Copyright (C) 2017 Hisilicon Limited, All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Zhichang Yuan <yuanzhichang@hisilicon.com>
  * Author: Zou Rongrong <zourongrong@huawei.com>
  * Author: John Garry <john.garry@huawei.com>

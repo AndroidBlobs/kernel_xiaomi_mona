@@ -4,6 +4,7 @@
  * NXP FlexSPI(FSPI) controller driver.
  *
  * Copyright 2019 NXP.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * FlexSPI is a flexsible SPI host controller which supports two SPI
  * channels and up to 4 external devices. Each channel supports

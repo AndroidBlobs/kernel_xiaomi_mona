@@ -3,6 +3,7 @@
  * A virtual codec example device.
  *
  * Copyright 2018 Cisco Systems, Inc. and/or its affiliates. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This is a virtual codec device driver for testing the codec framework.
  * It simulates a device that uses memory buffers for both source and

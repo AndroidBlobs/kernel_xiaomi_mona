@@ -5,6 +5,7 @@
  * Based on of-dma.c
  *
  * Copyright (C) 2013, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Andy Shevchenko <andriy.shevchenko@linux.intel.com>
  *	    Mika Westerberg <mika.westerberg@linux.intel.com>
  */

@@ -3,6 +3,7 @@
   Specialised functions for managing Chained mode
 
   Copyright(C) 2011  STMicroelectronics Ltd
+  Copyright (C) 2021 XiaoMi, Inc.
 
   It defines all the functions used to handle the normal/enhanced
   descriptors in case of the DMA is configured to work in chained or

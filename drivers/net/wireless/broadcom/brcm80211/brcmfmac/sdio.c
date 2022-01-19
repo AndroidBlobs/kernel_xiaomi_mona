@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: ISC
 /*
  * Copyright (c) 2010 Broadcom Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

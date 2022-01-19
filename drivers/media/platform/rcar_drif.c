@@ -3,6 +3,7 @@
  * R-Car Gen3 Digital Radio Interface (DRIF) driver
  *
  * Copyright (C) 2017 Renesas Electronics Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This program is distributed in the hope that it will be useful,
  * but WITHOUT ANY WARRANTY; without even the implied warranty of

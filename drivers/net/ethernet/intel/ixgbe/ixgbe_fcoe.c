@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright(c) 1999 - 2018 Intel Corporation. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include "ixgbe.h"
 #include <linux/if_ether.h>

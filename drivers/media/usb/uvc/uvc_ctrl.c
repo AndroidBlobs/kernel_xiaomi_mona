@@ -3,6 +3,7 @@
  *      uvc_ctrl.c  --  USB Video Class driver - Controls
  *
  *      Copyright (C) 2005-2010
+ *      Copyright (C) 2021 XiaoMi, Inc.
  *          Laurent Pinchart (laurent.pinchart@ideasonboard.com)
  */
 

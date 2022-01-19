@@ -2,6 +2,7 @@
 // bpf-lirc.c - handles bpf
 //
 // Copyright (C) 2018 Sean Young <sean@mess.org>
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/bpf.h>
 #include <linux/filter.h>

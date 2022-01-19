@@ -3,6 +3,7 @@
  * INA3221 Triple Current/Voltage Monitor
  *
  * Copyright (C) 2016 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	Andrew F. Davis <afd@ti.com>
  */
 

@@ -3,6 +3,7 @@
  * drivers/i2c/busses/i2c-tegra.c
  *
  * Copyright (C) 2010 Google, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Colin Cross <ccross@android.com>
  */
 

@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* Copyright (C) 2017 Intel Corporation */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef __IPU3_CIO2_H
 #define __IPU3_CIO2_H

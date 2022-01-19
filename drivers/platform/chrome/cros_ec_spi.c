@@ -2,6 +2,7 @@
 // SPI interface for ChromeOS Embedded Controller
 //
 // Copyright (C) 2012 Google, Inc
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/delay.h>
 #include <linux/kernel.h>

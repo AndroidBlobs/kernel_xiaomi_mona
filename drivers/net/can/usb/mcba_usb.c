@@ -2,6 +2,7 @@
 /* SocketCAN driver for Microchip CAN BUS Analyzer Tool
  *
  * Copyright (C) 2017 Mobica Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This driver is inspired by the 4.6.2 version of net/can/usb/usb_8dev.c
  */

@@ -3,6 +3,7 @@
  * System Control and Management Interface (SCMI) Reset Protocol
  *
  * Copyright (C) 2019 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "common.h"

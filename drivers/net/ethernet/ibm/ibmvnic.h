@@ -3,6 +3,7 @@
 /*                                                                        */
 /*  IBM System i and System p Virtual NIC Device Driver                   */
 /*  Copyright (C) 2014 IBM Corp.                                          */
+/*  Copyright (C) 2021 XiaoMi, Inc.                                       */
 /*  Santiago Leon (santi_leon@yahoo.com)                                  */
 /*  Thomas Falcon (tlfalcon@linux.vnet.ibm.com)                           */
 /*  John Allen (jallen@linux.vnet.ibm.com)                                */

@@ -4,6 +4,7 @@
   ST Ethernet IPs are built around a Synopsys IP Core.
 
 	Copyright(C) 2007-2011 STMicroelectronics Ltd
+	Copyright (C) 2021 XiaoMi, Inc.
 
 
   Author: Giuseppe Cavallaro <peppe.cavallaro@st.com>

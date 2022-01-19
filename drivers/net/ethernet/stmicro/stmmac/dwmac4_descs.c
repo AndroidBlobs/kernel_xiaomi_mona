@@ -4,6 +4,7 @@
  * 4.xx.
  *
  * Copyright (C) 2015  STMicroelectronics Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Alexandre Torgue <alexandre.torgue@st.com>
  */

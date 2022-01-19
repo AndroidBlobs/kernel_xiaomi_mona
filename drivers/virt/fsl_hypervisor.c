@@ -2,6 +2,7 @@
  * Freescale Hypervisor Management Driver
 
  * Copyright (C) 2008-2011 Freescale Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Timur Tabi <timur@freescale.com>
  *
  * This file is licensed under the terms of the GNU General Public License

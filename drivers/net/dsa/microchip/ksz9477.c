@@ -3,6 +3,7 @@
  * Microchip KSZ9477 switch driver main logic
  *
  * Copyright (C) 2017-2019 Microchip Technology Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

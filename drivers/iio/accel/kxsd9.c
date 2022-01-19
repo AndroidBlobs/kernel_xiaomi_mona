@@ -4,6 +4,7 @@
  *		accelerometer.
  *
  * Copyright (c) 2008-2009 Jonathan Cameron <jic23@kernel.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * The i2c interface is very similar, so shouldn't be a problem once
  * I have a suitable wire made up.

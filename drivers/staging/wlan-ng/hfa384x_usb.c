@@ -4,6 +4,7 @@
  * Functions that talk to the USB variant of the Intersil hfa384x MAC
  *
  * Copyright (C) 1999 AbsoluteValue Systems, Inc.  All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * --------------------------------------------------------------------
  *
  * linux-wlan

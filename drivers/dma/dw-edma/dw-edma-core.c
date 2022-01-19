@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (c) 2018-2019 Synopsys, Inc. and/or its affiliates.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Synopsys DesignWare eDMA core driver
  *
  * Author: Gustavo Pimentel <gustavo.pimentel@synopsys.com>

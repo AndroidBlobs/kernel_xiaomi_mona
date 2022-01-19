@@ -6,6 +6,7 @@
  *
  * Author: Sascha Hauer <sascha@saschahauer.de>
  * Copyright (C) 2004 Pengutronix
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #if defined(CONFIG_SERIAL_IMX_CONSOLE) && defined(CONFIG_MAGIC_SYSRQ)

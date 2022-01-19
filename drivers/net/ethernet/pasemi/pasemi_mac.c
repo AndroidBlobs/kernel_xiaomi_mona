@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2006-2007 PA Semi, Inc
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Driver for the PA Semi PWRficient onchip 1G/10G Ethernet MACs
  */

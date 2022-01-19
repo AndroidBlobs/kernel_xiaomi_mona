@@ -5,6 +5,7 @@
  *  Based on drivers/char/serial.c, by Linus Torvalds, Theodore Ts'o.
  *
  *  Copyright (C) 2001 Russell King, All Rights Reserved.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 #undef DEBUG
 #include <linux/module.h>

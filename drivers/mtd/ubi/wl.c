@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (c) International Business Machines Corp., 2006
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors: Artem Bityutskiy (Битюцкий Артём), Thomas Gleixner
  */

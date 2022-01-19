@@ -3,6 +3,7 @@
   PTP Header file
 
   Copyright (C) 2013  Vayavya Labs Pvt Ltd
+  Copyright (C) 2021 XiaoMi, Inc.
 
 
   Author: Rayagond Kokatanur <rayagond@vayavyalabs.com>

@@ -3,6 +3,7 @@
  * mcp3422.c - driver for the Microchip mcp3421/2/3/4/5/6/7/8 chip family
  *
  * Copyright (C) 2013, Angelo Compagnucci
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Angelo Compagnucci <angelo.compagnucci@gmail.com>
  *
  * Datasheet: http://ww1.microchip.com/downloads/en/devicedoc/22088b.pdf

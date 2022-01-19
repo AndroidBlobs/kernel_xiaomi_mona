@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* Copyright(c) 2013 - 2018 Intel Corporation. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef _I40E_H_
 #define _I40E_H_

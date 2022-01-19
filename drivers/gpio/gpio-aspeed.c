@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright 2015 IBM Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Joel Stanley <joel@jms.id.au>
  */

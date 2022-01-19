@@ -2,6 +2,7 @@
 /*
  * Rockchip Successive Approximation Register (SAR) A/D Converter
  * Copyright (C) 2014 ROCKCHIP, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

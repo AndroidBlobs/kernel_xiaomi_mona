@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /* Copyright (c) 2014 Mahesh Bandewar <maheshb@google.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "ipvlan.h"

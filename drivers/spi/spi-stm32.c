@@ -3,6 +3,7 @@
 // STMicroelectronics STM32 SPI Controller driver (master mode only)
 //
 // Copyright (C) 2017, STMicroelectronics - All Rights Reserved
+// Copyright (C) 2021 XiaoMi, Inc.
 // Author(s): Amelie Delaunay <amelie.delaunay@st.com> for STMicroelectronics.
 
 #include <linux/debugfs.h>

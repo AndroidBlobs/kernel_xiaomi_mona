@@ -3,6 +3,7 @@
  * Intel IXP4xx NPE-C crypto driver
  *
  * Copyright (C) 2008 Christian Hohnstaedt <chohnstaedt@innominate.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/platform_device.h>

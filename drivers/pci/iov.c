@@ -5,6 +5,7 @@
  *   Address Translation Service 1.0
  *
  * Copyright (C) 2009 Intel Corporation, Yu Zhao <yu.zhao@intel.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/pci.h>

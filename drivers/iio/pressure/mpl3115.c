@@ -3,6 +3,7 @@
  * mpl3115.c - Support for Freescale MPL3115A2 pressure/temperature sensor
  *
  * Copyright (c) 2013 Peter Meerwald <pmeerw@pmeerw.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * (7-bit I2C slave address 0x60)
  *

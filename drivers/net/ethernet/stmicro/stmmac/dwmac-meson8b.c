@@ -3,6 +3,7 @@
  * Amlogic Meson8b, Meson8m2 and GXBB DWMAC glue layer
  *
  * Copyright (C) 2016 Martin Blumenstingl <martin.blumenstingl@googlemail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

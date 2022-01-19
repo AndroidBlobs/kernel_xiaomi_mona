@@ -3,6 +3,7 @@
  * Libata based driver for Apple "macio" family of PATA controllers
  *
  * Copyright 2008/2009 Benjamin Herrenschmidt, IBM Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  *                     <benh@kernel.crashing.org>
  *
  * Some bits and pieces from drivers/ide/ppc/pmac.c

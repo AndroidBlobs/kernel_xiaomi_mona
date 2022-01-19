@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0+ */
 /* Copyright (c) 2018-2019 Hisilicon Limited. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef __HCLGE_DEBUGFS_H
 #define __HCLGE_DEBUGFS_H

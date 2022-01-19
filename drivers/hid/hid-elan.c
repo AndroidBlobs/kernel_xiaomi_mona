@@ -5,6 +5,7 @@
  * Currently only supports touchpad found on HP Pavilion X2 10
  *
  * Copyright (c) 2016 Alexandrov Stanislav <neko@nya.ai>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/hid.h>

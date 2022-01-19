@@ -3,6 +3,7 @@
  *  TW5864 driver - video encoding functions
  *
  *  Copyright (C) 2016 Bluecherry, LLC <maintainers@bluecherrydvr.com>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

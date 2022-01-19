@@ -3,6 +3,7 @@
  * QTI CE device driver.
  *
  * Copyright (c) 2010-2020, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/mman.h>

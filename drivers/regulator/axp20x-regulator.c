@@ -2,6 +2,7 @@
  * AXP20x regulators driver.
  *
  * Copyright (C) 2013 Carlo Caione <carlo@caione.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is subject to the terms and conditions of the GNU General
  * Public License. See the file "COPYING" in the main directory of this

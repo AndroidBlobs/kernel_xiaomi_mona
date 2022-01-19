@@ -2,6 +2,7 @@
 /*
  * HID driver for some ITE "special" devices
  * Copyright (c) 2017 Hans de Goede <hdegoede@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/device.h>

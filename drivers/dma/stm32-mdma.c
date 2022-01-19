@@ -2,6 +2,7 @@
 /*
  *
  * Copyright (C) STMicroelectronics SA 2017
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author(s): M'boumba Cedric Madianga <cedric.madianga@gmail.com>
  *            Pierre-Yves Mordret <pierre-yves.mordret@st.com>
  *

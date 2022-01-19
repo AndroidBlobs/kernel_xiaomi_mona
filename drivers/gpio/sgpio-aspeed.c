@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright 2019 American Megatrends International LLC.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Karthikeyan Mani <karthikeyanm@amiindia.co.in>
  */

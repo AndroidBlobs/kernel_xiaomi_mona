@@ -3,6 +3,7 @@
  * DMA driver for Xilinx Video DMA Engine
  *
  * Copyright (C) 2010-2014 Xilinx, Inc. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on the Freescale DMA driver.
  *

@@ -3,6 +3,7 @@
  * This file contains the login functions used by the iSCSI Target driver.
  *
  * (c) Copyright 2007-2013 Datera, Inc.
+ * (c) Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Nicholas A. Bellinger <nab@linux-iscsi.org>
  *

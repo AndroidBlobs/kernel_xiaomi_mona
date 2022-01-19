@@ -3,6 +3,7 @@
  * EMIF driver
  *
  * Copyright (C) 2012 Texas Instruments, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Aneesh V <aneesh@ti.com>
  * Santosh Shilimkar <santosh.shilimkar@ti.com>

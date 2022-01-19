@@ -3,6 +3,7 @@
  * OMAP2 McSPI controller driver
  *
  * Copyright (C) 2005, 2006 Nokia Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author:	Samuel Ortiz <samuel.ortiz@nokia.com> and
  *		Juha Yrj�l� <juha.yrjola@nokia.com>
  */

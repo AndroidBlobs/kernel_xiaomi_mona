@@ -3,6 +3,7 @@
  * Generic PXA PATA driver
  *
  * Copyright (C) 2010 Marek Vasut <marek.vasut@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

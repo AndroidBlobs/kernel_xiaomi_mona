@@ -4,6 +4,7 @@
 //
 // Based on extcon-sm5502.c driver
 // Copyright (c) 2018-2019 by Vijai Kumar K
+// Copyright (C) 2021 XiaoMi, Inc.
 // Author: Vijai Kumar K <vijaikumar.kanagarajan@gmail.com>
 
 #include <linux/err.h>

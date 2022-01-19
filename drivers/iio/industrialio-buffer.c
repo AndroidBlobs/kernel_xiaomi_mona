@@ -2,6 +2,7 @@
 /* The industrial I/O core
  *
  * Copyright (c) 2008 Jonathan Cameron
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Handling of buffer allocation / resizing.
  *

@@ -3,6 +3,7 @@
  * pwm-fan.c - Hwmon driver for fans connected to PWM lines.
  *
  * Copyright (c) 2014 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Kamil Debski <k.debski@samsung.com>
  */

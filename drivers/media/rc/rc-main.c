@@ -2,6 +2,7 @@
 // rc-main.c - Remote Controller core module
 //
 // Copyright (C) 2009-2010 by Mauro Carvalho Chehab
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt
 

@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: (GPL-2.0+ OR BSD-3-Clause)
 /* Copyright 2017-2019 NXP */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/net_tstamp.h>
 #include <linux/module.h>

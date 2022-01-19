@@ -3,6 +3,7 @@
  *	sp5100_tco:	TCO timer driver for sp5100 chipsets.
  *
  *	(c) Copyright 2009 Google Inc., All Rights Reserved.
+ *	(c) Copyright (C) 2021 XiaoMi, Inc.
  *
  *	TCO timer driver for sp5100 chipsets
  */

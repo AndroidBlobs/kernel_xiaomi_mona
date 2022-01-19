@@ -3,6 +3,7 @@
  * Samsung S5P/EXYNOS SoC series MIPI-CSI receiver driver
  *
  * Copyright (C) 2011 - 2013 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Sylwester Nawrocki <s.nawrocki@samsung.com>
  */
 

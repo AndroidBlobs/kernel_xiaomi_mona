@@ -4,6 +4,7 @@
  *  Bluetooth HCI Three-wire UART driver
  *
  *  Copyright (C) 2012  Intel Corporation
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/acpi.h>

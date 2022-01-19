@@ -4,6 +4,7 @@
  *     EMXX FCD (Function Controller Driver) for USB.
  *
  *  Copyright (C) 2010 Renesas Electronics Corporation
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

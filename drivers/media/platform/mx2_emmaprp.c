@@ -10,6 +10,7 @@
  * Based on mem2mem_testdev.c by Pawel Osciak.
  *
  * Copyright (c) 2011 Vista Silicon S.L.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Javier Martin <javier.martin@vista-silicon.com>
  */
 #include <linux/module.h>

@@ -3,6 +3,7 @@
  * Media device
  *
  * Copyright (C) 2010 Nokia Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Contacts: Laurent Pinchart <laurent.pinchart@ideasonboard.com>
  *	     Sakari Ailus <sakari.ailus@iki.fi>

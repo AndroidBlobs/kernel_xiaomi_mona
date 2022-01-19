@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2012, Microsoft Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  *   K. Y. Srinivasan <kys@microsoft.com>

@@ -3,6 +3,7 @@
  * NXP TDA10071 + Conexant CX24118A DVB-S/S2 demodulator + tuner driver
  *
  * Copyright (C) 2011 Antti Palosaari <crope@iki.fi>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "tda10071_priv.h"

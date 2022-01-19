@@ -3,6 +3,7 @@
  * Extended Error Log driver
  *
  * Copyright (C) 2013 Intel Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Chen, Gong <gong.chen@intel.com>
  */
 

@@ -3,6 +3,7 @@
  * TI/National Semiconductor LP3943 PWM driver
  *
  * Copyright 2013 Texas Instruments
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Milo Kim <milo.kim@ti.com>
  */

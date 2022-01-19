@@ -3,6 +3,7 @@
  * Author(s)......: Holger Smolinski <Holger.Smolinski@de.ibm.com>
  * Bugreports.to..: <Linux390@de.ibm.com>
  * Copyright IBM Corp. 1999, 2009
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define KMSG_COMPONENT "dasd-fba"

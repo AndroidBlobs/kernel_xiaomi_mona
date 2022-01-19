@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
  *    Copyright (C) 2006 Benjamin Herrenschmidt, IBM Corp.
+ *    Copyright (C) 2021 XiaoMi, Inc.
  *			 <benh@kernel.crashing.org>
  *    and		 Arnd Bergmann, IBM Corp.
  *    Merged from powerpc/kernel/of_platform.c and

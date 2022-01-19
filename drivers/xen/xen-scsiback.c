@@ -2,6 +2,7 @@
  * Xen SCSI backend driver
  *
  * Copyright (c) 2008, FUJITSU Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on the blkback driver code.
  * Adaption to kernel taget core infrastructure taken from vhost/scsi.c

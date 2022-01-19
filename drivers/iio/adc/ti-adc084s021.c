@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /**
  * Copyright (C) 2017 Axis Communications AB
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Driver for Texas Instruments' ADC084S021 ADC chip.
  * Datasheets can be found here:

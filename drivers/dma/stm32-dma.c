@@ -5,6 +5,7 @@
  * Inspired by dma-jz4740.c and tegra20-apb-dma.c
  *
  * Copyright (C) M'boumba Cedric Madianga 2015
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: M'boumba Cedric Madianga <cedric.madianga@gmail.com>
  *         Pierre-Yves Mordret <pierre-yves.mordret@st.com>
  */

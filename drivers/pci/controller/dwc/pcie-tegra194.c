@@ -3,6 +3,7 @@
  * PCIe host controller driver for Tegra194 SoC
  *
  * Copyright (C) 2019 NVIDIA Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Vidya Sagar <vidyas@nvidia.com>
  */

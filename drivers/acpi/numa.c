@@ -3,6 +3,7 @@
  *  acpi_numa.c - ACPI NUMA support
  *
  *  Copyright (C) 2002 Takayoshi Kochi <t-kochi@bq.jp.nec.com>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define pr_fmt(fmt) "ACPI: " fmt

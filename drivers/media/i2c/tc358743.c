@@ -3,6 +3,7 @@
  * tc358743 - Toshiba HDMI to CSI-2 bridge
  *
  * Copyright 2015 Cisco Systems, Inc. and/or its affiliates. All rights
+ * Copyright (C) 2021 XiaoMi, Inc.
  * reserved.
  */
 

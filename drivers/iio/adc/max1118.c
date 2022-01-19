@@ -3,6 +3,7 @@
  * MAX1117/MAX1118/MAX1119 8-bit, dual-channel ADCs driver
  *
  * Copyright (c) 2017 Akinobu Mita <akinobu.mita@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Datasheet: https://datasheets.maximintegrated.com/en/ds/MAX1117-MAX1119.pdf
  *

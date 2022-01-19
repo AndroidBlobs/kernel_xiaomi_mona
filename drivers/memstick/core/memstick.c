@@ -3,6 +3,7 @@
  *  Sony MemoryStick support
  *
  *  Copyright (C) 2007 Alex Dubov <oakad@yahoo.com>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  * Special thanks to Carlos Corbacho for providing various MemoryStick cards
  * that made this driver possible.

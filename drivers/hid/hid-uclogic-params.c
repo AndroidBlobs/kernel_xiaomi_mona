@@ -4,6 +4,7 @@
  *  - tablet initialization and parameter retrieval
  *
  *  Copyright (c) 2018 Nikolai Kondrashov
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

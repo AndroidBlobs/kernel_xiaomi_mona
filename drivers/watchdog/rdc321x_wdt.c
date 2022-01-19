@@ -3,6 +3,7 @@
  * RDC321x watchdog driver
  *
  * Copyright (C) 2007-2010 Florian Fainelli <florian@openwrt.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This driver is highly inspired from the cpu5_wdt driver
  */

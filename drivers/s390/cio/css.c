@@ -3,6 +3,7 @@
  * driver for channel subsystem
  *
  * Copyright IBM Corp. 2002, 2010
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author(s): Arnd Bergmann (arndb@de.ibm.com)
  *	      Cornelia Huck (cornelia.huck@de.ibm.com)

@@ -2,6 +2,7 @@
 /*
  * Driver for Intel(R) 10nm server memory controller.
  * Copyright (c) 2019, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  */
 

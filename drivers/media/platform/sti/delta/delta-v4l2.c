@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) STMicroelectronics SA 2015
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Hugues Fruchet <hugues.fruchet@st.com>
  *          Jean-Christophe Trotin <jean-christophe.trotin@st.com>
  *          for STMicroelectronics.

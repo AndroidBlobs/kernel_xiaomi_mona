@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2015 IT University of Copenhagen. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Initial release: Matias Bjorling <m@bjorling.me>
  */
 

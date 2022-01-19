@@ -4,6 +4,7 @@
  *
  * Purna Chandra Mandal <purna.mandal@microchip.com>
  * Copyright (c) 2016, Microchip Technology Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

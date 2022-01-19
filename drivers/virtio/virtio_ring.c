@@ -2,6 +2,7 @@
 /* Virtio ring implementation.
  *
  *  Copyright 2007 Rusty Russell IBM Corporation
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/virtio.h>
 #include <linux/virtio_ring.h>

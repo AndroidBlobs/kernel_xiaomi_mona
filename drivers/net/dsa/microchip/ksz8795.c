@@ -3,6 +3,7 @@
  * Microchip KSZ8795 switch driver
  *
  * Copyright (C) 2017 Microchip Technology Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	Tristram Ha <Tristram.Ha@microchip.com>
  */
 

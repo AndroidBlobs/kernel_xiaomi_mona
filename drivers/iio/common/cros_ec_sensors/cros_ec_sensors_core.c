@@ -3,6 +3,7 @@
  * cros_ec_sensors_core - Common function for Chrome OS EC sensor driver.
  *
  * Copyright (C) 2016 Google, Inc
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/delay.h>

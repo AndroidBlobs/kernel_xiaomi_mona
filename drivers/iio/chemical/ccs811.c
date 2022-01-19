@@ -3,6 +3,7 @@
  * ccs811.c - Support for AMS CCS811 VOC Sensor
  *
  * Copyright (C) 2017 Narcisa Vasile <narcisaanamaria12@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Datasheet: ams.com/content/download/951091/2269479/CCS811_DS000459_3-00.pdf
  *

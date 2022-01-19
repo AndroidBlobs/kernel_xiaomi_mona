@@ -3,6 +3,7 @@
  * RPR-0521 ROHM Ambient Light and Proximity Sensor
  *
  * Copyright (c) 2015, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * IIO driver for RPR-0521RS (7-bit I2C slave address 0x38).
  *

@@ -2,6 +2,7 @@
  * ipheth.c - Apple iPhone USB Ethernet driver
  *
  * Copyright (c) 2009 Diego Giagio <diego@giagio.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

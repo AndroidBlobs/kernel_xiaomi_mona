@@ -8,6 +8,7 @@
  *		    on emails.
  *
  *  Copyright 2003-2004 Red Hat, Inc.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  libata documentation is available via 'make {ps|pdf}docs',
  *  as Documentation/driver-api/libata.rst

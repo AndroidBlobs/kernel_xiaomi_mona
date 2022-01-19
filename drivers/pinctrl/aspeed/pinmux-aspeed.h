@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
 /* Copyright (C) 2019 IBM Corp.  */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef ASPEED_PINMUX_H
 #define ASPEED_PINMUX_H

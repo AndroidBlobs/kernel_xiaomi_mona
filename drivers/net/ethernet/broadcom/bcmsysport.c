@@ -3,6 +3,7 @@
  * Broadcom BCM7xxx System Port Ethernet MAC driver
  *
  * Copyright (C) 2014 Broadcom Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define pr_fmt(fmt)	KBUILD_MODNAME ": " fmt

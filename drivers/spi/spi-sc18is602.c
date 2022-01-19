@@ -3,6 +3,7 @@
  * NXP SC18IS602/603 SPI driver
  *
  * Copyright (C) Guenter Roeck <linux@roeck-us.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

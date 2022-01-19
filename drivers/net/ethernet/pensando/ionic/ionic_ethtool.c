@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright(c) 2017 - 2019 Pensando Systems, Inc */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/module.h>
 #include <linux/netdevice.h>

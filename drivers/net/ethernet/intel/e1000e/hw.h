@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* Copyright(c) 1999 - 2018 Intel Corporation. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef _E1000_HW_H_
 #define _E1000_HW_H_

@@ -3,6 +3,7 @@
  * Error Location Module
  *
  * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define DRIVER_NAME	"omap-elm"

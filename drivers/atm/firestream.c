@@ -7,6 +7,7 @@
 /* Written & (C) 2000 by R.E.Wolff@BitWizard.nl 
  * Copied snippets from zatm.c by Werner Almesberger, EPFL LRC/ICA 
  * and ambassador.c Copyright (C) 1995-1999  Madge Networks Ltd 
+ * and ambassador.c Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

@@ -3,6 +3,7 @@
  * Driver for EIP97 cryptographic accelerator.
  *
  * Copyright (c) 2016 Ryder Lee <ryder.lee@mediatek.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

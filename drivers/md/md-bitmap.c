@@ -6,6 +6,7 @@
  * bitmap_destroy - destroys the bitmap structure
  *
  * additions, Copyright (C) 2003-2004, Paul Clements, SteelEye Technology, Inc.:
+ * additions, Copyright (C) 2021 XiaoMi, Inc.
  * - added disk storage for bitmap
  * - changes to allow various bitmap chunk sizes
  */

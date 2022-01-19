@@ -3,6 +3,7 @@
     mxb - v4l2 driver for the Multimedia eXtension Board
 
     Copyright (C) 1998-2006 Michael Hunold <michael@mihu.de>
+    Copyright (C) 2021 XiaoMi, Inc.
 
     Visit http://www.themm.net/~mihu/linux/saa7146/mxb.html
     for further details about this card.

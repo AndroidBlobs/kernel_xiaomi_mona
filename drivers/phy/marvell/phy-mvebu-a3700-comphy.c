@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2018 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *   Evan Wang <xswang@marvell.com>

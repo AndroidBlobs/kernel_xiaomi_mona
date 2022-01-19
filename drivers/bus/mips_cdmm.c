@@ -2,6 +2,7 @@
  * Bus driver for MIPS Common Device Memory Map (CDMM).
  *
  * Copyright (C) 2014-2015 Imagination Technologies Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is subject to the terms and conditions of the GNU General Public
  * License.  See the file "COPYING" in the main directory of this archive

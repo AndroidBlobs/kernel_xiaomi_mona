@@ -3,6 +3,7 @@
  * Amlogic Meson Nand Flash Controller Driver
  *
  * Copyright (c) 2018 Amlogic, inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Liang Yang <liang.yang@amlogic.com>
  */
 

@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 /* Copyright (c) 2018 Quantenna Communications, Inc. All rights reserved. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/module.h>
 #include <linux/printk.h>

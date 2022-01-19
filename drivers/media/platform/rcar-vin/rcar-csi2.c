@@ -3,6 +3,7 @@
  * Driver for Renesas R-Car MIPI CSI-2 Receiver
  *
  * Copyright (C) 2018 Renesas Electronics Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/delay.h>

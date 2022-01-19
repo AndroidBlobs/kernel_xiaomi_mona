@@ -5,6 +5,7 @@
  *
  *  COMEDI - Linux Control and Measurement Device Interface
  *  Copyright (C) 2000 David A. Schleef <ds@schleef.org>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 /*
  * Driver: mf6x4

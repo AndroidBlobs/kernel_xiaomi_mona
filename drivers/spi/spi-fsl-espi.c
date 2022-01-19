@@ -3,6 +3,7 @@
  * Freescale eSPI controller driver.
  *
  * Copyright 2010 Freescale Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/delay.h>
 #include <linux/err.h>

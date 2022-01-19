@@ -8,6 +8,7 @@
  * Li Yang <leoli@freescale.com>
  *
  * Copyright (c) 2006-2007, 2011-2012 Freescale Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

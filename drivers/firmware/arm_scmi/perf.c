@@ -3,6 +3,7 @@
  * System Control and Management Interface (SCMI) Performance Protocol
  *
  * Copyright (C) 2018 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bits.h>

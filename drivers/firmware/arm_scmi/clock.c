@@ -3,6 +3,7 @@
  * System Control and Management Interface (SCMI) Clock Protocol
  *
  * Copyright (C) 2018 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "common.h"

@@ -3,6 +3,7 @@
  * Touchscreen driver DMI based configuration code
  *
  * Copyright (c) 2017 Red Hat Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Red Hat authors:
  * Hans de Goede <hdegoede@redhat.com>

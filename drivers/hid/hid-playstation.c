@@ -3,6 +3,7 @@
  *  HID driver for Sony DualSense(TM) controller.
  *
  *  Copyright (c) 2020 Sony Interactive Entertainment
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bits.h>

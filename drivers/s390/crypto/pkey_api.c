@@ -3,6 +3,7 @@
  *  pkey device driver
  *
  *  Copyright IBM Corp. 2017,2019
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Author(s): Harald Freudenberger
  */
 

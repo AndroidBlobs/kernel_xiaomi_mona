@@ -2,6 +2,7 @@
 /*
  * Intel E3-1200
  * Copyright (C) 2014 Jason Baron <jbaron@akamai.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Support for the E3-1200 processor family. Heavily based on previous
  * Intel EDAC drivers.

@@ -4,6 +4,7 @@
  *
  *  Based on drivers/char/serial.c, by Linus Torvalds, Theodore Ts'o.
  *  Split from 8250_core.c, Copyright (C) 2001 Russell King.
+ *  Split from 8250_core.c, Copyright (C) 2021 XiaoMi, Inc.
  *
  * A note about mapbase / membase
  *

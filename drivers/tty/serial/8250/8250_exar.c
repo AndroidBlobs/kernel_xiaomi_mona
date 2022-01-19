@@ -5,6 +5,7 @@
  *  Based on drivers/tty/serial/8250/8250_pci.c,
  *
  *  Copyright (C) 2017 Sudip Mukherjee, All Rights Reserved.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/acpi.h>
 #include <linux/dmi.h>

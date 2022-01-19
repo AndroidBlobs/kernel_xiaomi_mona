@@ -3,6 +3,7 @@
  * Intel(R) Trace Hub pci driver
  *
  * Copyright (C) 2014-2015 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define pr_fmt(fmt)	KBUILD_MODNAME ": " fmt

@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: ISC
 /*
  * Copyright (C) 2018 Felix Fietkau <nbd@nbd.name>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include "mt76.h"
 

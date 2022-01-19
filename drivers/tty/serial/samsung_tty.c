@@ -3,6 +3,7 @@
  * Driver core for Samsung SoC onboard UARTs.
  *
  * Ben Dooks, Copyright (c) 2003-2008 Simtec Electronics
+ * Ben Dooks, Copyright (C) 2021 XiaoMi, Inc.
  *	http://armlinux.simtec.co.uk/
  */
 

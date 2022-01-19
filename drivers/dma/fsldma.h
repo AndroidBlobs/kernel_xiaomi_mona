@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
 /*
  * Copyright (C) 2007-2010 Freescale Semiconductor, Inc. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  *   Zhang Wei <wei.zhang@freescale.com>, Jul 2007

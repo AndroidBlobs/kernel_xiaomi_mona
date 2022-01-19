@@ -3,6 +3,7 @@
  * DMA driver for Xilinx ZynqMP DMA Engine
  *
  * Copyright (C) 2016 Xilinx, Inc. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitops.h>

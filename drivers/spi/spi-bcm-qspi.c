@@ -3,6 +3,7 @@
  * Driver for Broadcom BRCMSTB, NSP,  NS2, Cygnus SPI Controllers
  *
  * Copyright 2016 Broadcom
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

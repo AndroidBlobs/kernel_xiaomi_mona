@@ -3,6 +3,7 @@
  * DMA driver for Nvidia's Tegra20 APB DMA controller.
  *
  * Copyright (c) 2012-2013, NVIDIA CORPORATION.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitops.h>

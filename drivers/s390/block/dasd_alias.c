@@ -3,6 +3,7 @@
  * PAV alias management for the DASD ECKD discipline
  *
  * Copyright IBM Corp. 2007
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author(s): Stefan Weinhuber <wein@de.ibm.com>
  */
 

@@ -3,6 +3,7 @@
  * Intel Low Power Subsystem PWM controller driver
  *
  * Copyright (C) 2014, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Mika Westerberg <mika.westerberg@linux.intel.com>
  * Author: Chew Kean Ho <kean.ho.chew@intel.com>
  * Author: Chang Rebecca Swee Fun <rebecca.swee.fun.chang@intel.com>

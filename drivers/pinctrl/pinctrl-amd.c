@@ -3,6 +3,7 @@
  * GPIO driver for AMD
  *
  * Copyright (c) 2014,2015 AMD Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Ken Xue <Ken.Xue@amd.com>
  *      Wu, Jeff <Jeff.Wu@amd.com>
  *

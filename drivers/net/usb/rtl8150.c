@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  *  Copyright (c) 2002 Petko Manolov (petkan@users.sourceforge.net)
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/signal.h>

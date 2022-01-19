@@ -3,6 +3,7 @@
  * Intel(R) Trace Hub data structures
  *
  * Copyright (C) 2014-2015 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __INTEL_TH_H__

@@ -8,6 +8,7 @@
  * Based on: spi-bcm2835.c
  *
  * Copyright (C) 2015 Martin Sperl
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

@@ -3,6 +3,7 @@
  * Xen Event Channels (internal header)
  *
  * Copyright (C) 2013 Citrix Systems R&D Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __EVENTS_INTERNAL_H__
 #define __EVENTS_INTERNAL_H__

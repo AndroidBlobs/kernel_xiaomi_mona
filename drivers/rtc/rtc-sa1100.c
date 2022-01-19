@@ -3,6 +3,7 @@
  * Real Time Clock interface for StrongARM SA1x00 and XScale PXA2xx
  *
  * Copyright (c) 2000 Nils Faerber
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on rtc.c by Paul Gortmaker
  *

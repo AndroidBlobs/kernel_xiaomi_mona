@@ -5,6 +5,7 @@
  * actually tested with mb1232 type
  *
  * Copyright (c) 2019 Andreas Klinger <ak@it-klinger.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * For details about the device see:
  * https://www.maxbotix.com/documents/I2CXL-MaxSonar-EZ_Datasheet.pdf

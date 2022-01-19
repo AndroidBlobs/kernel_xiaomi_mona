@@ -3,6 +3,7 @@
  * ACPI support for PNP bus type
  *
  * Copyright (C) 2014, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Zhang Rui <rui.zhang@intel.com>
  *          Rafael J. Wysocki <rafael.j.wysocki@intel.com>
  */

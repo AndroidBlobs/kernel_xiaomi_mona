@@ -12,6 +12,7 @@
  * file is being linked into a built-in object.
  *
  * Copyright (c) 2018, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/acpi.h>

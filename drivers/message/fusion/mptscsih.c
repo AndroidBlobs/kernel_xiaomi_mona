@@ -4,6 +4,7 @@
  *      running LSI Fusion MPT (Message Passing Technology) firmware.
  *
  *  Copyright (c) 1999-2008 LSI Corporation
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  (mailto:DL-MPTFusionLinux@lsi.com)
  *
  */

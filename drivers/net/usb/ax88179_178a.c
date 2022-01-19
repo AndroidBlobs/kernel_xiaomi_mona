@@ -3,6 +3,7 @@
  * ASIX AX88179/178A USB 3.0/2.0 to Gigabit Ethernet Devices
  *
  * Copyright (C) 2011-2013 ASIX
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

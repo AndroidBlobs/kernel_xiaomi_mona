@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0+
 // Copyright (c) 2016-2017 Hisilicon Limited.
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/etherdevice.h>
 #include <linux/iopoll.h>

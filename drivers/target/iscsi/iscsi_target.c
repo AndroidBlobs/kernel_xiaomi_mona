@@ -3,6 +3,7 @@
  * This file contains main functions related to the iSCSI Target Core Driver.
  *
  * (c) Copyright 2007-2013 Datera, Inc.
+ * (c) Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Nicholas A. Bellinger <nab@linux-iscsi.org>
  *

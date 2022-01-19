@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2017 Fuzhou Rockchip Electronics Co.Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Jacob Chen <jacob-chen@iotwrt.com>
  */
 

@@ -3,6 +3,7 @@
  *    Support for adapter interruptions
  *
  *    Copyright IBM Corp. 1999, 2007
+ *    Copyright (C) 2021 XiaoMi, Inc.
  *    Author(s): Ingo Adlung <adlung@de.ibm.com>
  *		 Cornelia Huck <cornelia.huck@de.ibm.com>
  *		 Arnd Bergmann <arndb@de.ibm.com>

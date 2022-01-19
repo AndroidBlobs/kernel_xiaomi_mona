@@ -7,6 +7,7 @@
  * and Westmere-EP.
  *
  * Copyright (c) 2009-2010 by:
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	 Mauro Carvalho Chehab
  *
  * Red Hat Inc. http://www.redhat.com

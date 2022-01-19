@@ -4,6 +4,7 @@
  * support for LPDDR2-NVM PCM memories
  *
  * Copyright © 2012 Micron Technology, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Vincenzo Aliberti <vincenzo.aliberti@gmail.com>
  * Domenico Manna <domenico.manna@gmail.com>

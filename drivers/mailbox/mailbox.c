@@ -3,6 +3,7 @@
  * Mailbox: Common code for Mailbox controllers and users
  *
  * Copyright (C) 2013-2014 Linaro Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Jassi Brar <jassisinghbrar@gmail.com>
  */
 

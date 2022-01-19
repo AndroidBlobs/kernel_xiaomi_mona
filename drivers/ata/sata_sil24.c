@@ -3,6 +3,7 @@
  * sata_sil24.c - Driver for Silicon Image 3124/3132 SATA-2 controllers
  *
  * Copyright 2005  Tejun Heo
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on preview driver from Silicon Image.
  */

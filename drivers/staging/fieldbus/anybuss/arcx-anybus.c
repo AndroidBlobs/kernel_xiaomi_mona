@@ -3,6 +3,7 @@
  * Arcx Anybus-S Controller driver
  *
  * Copyright (C) 2018 Arcx Inc
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

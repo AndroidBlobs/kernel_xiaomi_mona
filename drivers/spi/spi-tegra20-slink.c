@@ -3,6 +3,7 @@
  * SPI driver for Nvidia's Tegra20/Tegra30 SLINK Controller.
  *
  * Copyright (c) 2012, NVIDIA CORPORATION.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

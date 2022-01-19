@@ -12,6 +12,7 @@
  * clocks configuration, thermal sensors and many others.
  *
  * Copyright (C) 2018 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitmap.h>

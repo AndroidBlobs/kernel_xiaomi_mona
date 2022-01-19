@@ -4,6 +4,7 @@
   Provides Bus interface for MII registers
 
   Copyright (C) 2007-2009  STMicroelectronics Ltd
+  Copyright (C) 2021 XiaoMi, Inc.
 
 
   Author: Carl Shaw <carl.shaw@st.com>

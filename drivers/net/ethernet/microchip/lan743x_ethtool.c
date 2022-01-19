@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0+ */
 /* Copyright (C) 2018 Microchip Technology Inc. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/netdevice.h>
 #include "lan743x_main.h"

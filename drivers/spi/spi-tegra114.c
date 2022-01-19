@@ -3,6 +3,7 @@
  * SPI driver for NVIDIA's Tegra114 SPI Controller.
  *
  * Copyright (c) 2013, NVIDIA CORPORATION.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

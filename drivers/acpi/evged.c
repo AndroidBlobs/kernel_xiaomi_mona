@@ -3,6 +3,7 @@
  * Generic Event Device for ACPI.
  *
  * Copyright (c) 2016, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Generic Event Device allows platforms to handle interrupts in ACPI
  * ASL statements. It follows very similar to  _EVT method approach

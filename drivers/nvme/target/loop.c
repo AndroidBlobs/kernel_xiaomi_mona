@@ -2,6 +2,7 @@
 /*
  * NVMe over Fabrics loopback device.
  * Copyright (c) 2015-2016 HGST, a Western Digital Company.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt
 #include <linux/scatterlist.h>

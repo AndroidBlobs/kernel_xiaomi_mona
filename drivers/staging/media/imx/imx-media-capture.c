@@ -3,6 +3,7 @@
  * Video Capture Subdev for Freescale i.MX5/6 SOC
  *
  * Copyright (c) 2012-2016 Mentor Graphics Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/delay.h>
 #include <linux/fs.h>

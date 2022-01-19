@@ -3,6 +3,7 @@
  *      uvc_v4l2.c  --  USB Video Class driver - V4L2 API
  *
  *      Copyright (C) 2005-2010
+ *      Copyright (C) 2021 XiaoMi, Inc.
  *          Laurent Pinchart (laurent.pinchart@ideasonboard.com)
  */
 

@@ -2,6 +2,7 @@
  * Allwinner A1X SoCs pinctrl driver.
  *
  * Copyright (C) 2012 Maxime Ripard
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Maxime Ripard <maxime.ripard@free-electrons.com>
  *

@@ -2,6 +2,7 @@
 /* A network driver using virtio.
  *
  * Copyright 2007 Rusty Russell <rusty@rustcorp.com.au> IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 //#define DEBUG
 #include <linux/netdevice.h>

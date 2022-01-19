@@ -3,6 +3,7 @@
  * ADC12130/ADC12132/ADC12138 12-bit plus sign ADC driver
  *
  * Copyright (c) 2016 Akinobu Mita <akinobu.mita@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Datasheet: http://www.ti.com/lit/ds/symlink/adc12138.pdf
  */

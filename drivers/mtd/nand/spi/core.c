@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2016-2017 Micron Technology, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *	Peter Pan <peterpandong@micron.com>

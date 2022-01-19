@@ -2,6 +2,7 @@
 /*	Sysfs attributes of bond slaves
  *
  *      Copyright (c) 2014 Scott Feldman <sfeldma@cumulusnetworks.com>
+ *      Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/capability.h>

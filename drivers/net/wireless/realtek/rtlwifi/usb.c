@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright(c) 2009-2012  Realtek Corporation.*/
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include "wifi.h"
 #include "core.h"

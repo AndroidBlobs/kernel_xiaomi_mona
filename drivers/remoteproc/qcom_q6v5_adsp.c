@@ -2,6 +2,7 @@
 /*
  * Qualcomm Technology Inc. ADSP Peripheral Image Loader for SDM845.
  * Copyright (c) 2018, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk.h>

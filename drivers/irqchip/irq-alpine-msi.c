@@ -2,6 +2,7 @@
  * Annapurna Labs MSIX support services
  *
  * Copyright (C) 2016, Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Antoine Tenart <antoine.tenart@free-electrons.com>
  *

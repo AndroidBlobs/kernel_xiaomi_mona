@@ -3,6 +3,7 @@
  * This file contains driver for the Cadence Triple Timer Counter Rev 06
  *
  *  Copyright (C) 2011-2013 Xilinx
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  * based on arch/mips/kernel/time.c timer driver
  */

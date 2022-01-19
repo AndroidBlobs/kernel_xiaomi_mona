@@ -2,6 +2,7 @@
 /*
  * IBM eServer Hypervisor Virtual Console Server Device Driver
  * Copyright (C) 2003, 2004 IBM Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *  Ryan S. Arnold (rsa@us.ibm.com)
  *
  * Author(s) :  Ryan S. Arnold <rsa@us.ibm.com>

@@ -3,6 +3,7 @@
  * TI QSPI driver
  *
  * Copyright (C) 2013 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Sourav Poddar <sourav.poddar@ti.com>
  */
 

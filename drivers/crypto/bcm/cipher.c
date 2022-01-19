@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright 2016 Broadcom
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/err.h>

@@ -2,6 +2,7 @@
 /*
  * A driver for the RTC embedded in the Cirrus Logic EP93XX processors
  * Copyright (c) 2006 Tower Technologies
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Alessandro Zummo <a.zummo@towertech.it>
  */

@@ -3,6 +3,7 @@
  * imx214.c - imx214 sensor driver
  *
  * Copyright 2018 Qtechnology A/S
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Ricardo Ribalda <ricardo.ribalda@gmail.com>
  */

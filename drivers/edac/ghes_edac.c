@@ -3,6 +3,7 @@
  * GHES/EDAC Linux driver
  *
  * Copyright (c) 2013 by Mauro Carvalho Chehab
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Red Hat Inc. http://www.redhat.com
  */

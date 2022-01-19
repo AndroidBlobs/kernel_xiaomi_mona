@@ -3,6 +3,7 @@
  * Renesas R-Car GyroADC driver
  *
  * Copyright 2016 Marek Vasut <marek.vasut@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

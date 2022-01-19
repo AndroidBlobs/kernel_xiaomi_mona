@@ -5,6 +5,7 @@
  * Magnetic compass sensor driver for monitoring magnetic flux information.
  *
  * Copyright (c) 2010, NVIDIA Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

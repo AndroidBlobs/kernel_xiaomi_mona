@@ -2,6 +2,7 @@
 /*
  * Freescale CPM1/CPM2 I2C interface.
  * Copyright (c) 1999 Dan Malek (dmalek@jlc.net).
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * moved into proper i2c interface;
  * Brad Parker (brad@heeltoe.com)

@@ -3,6 +3,7 @@
  * Xilinx Zynq GPIO device driver
  *
  * Copyright (C) 2009 - 2014 Xilinx, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/bitops.h>

@@ -3,6 +3,7 @@
  *  linux/drivers/clocksource/arm_arch_timer.c
  *
  *  Copyright (C) 2011 ARM Ltd.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  All Rights Reserved
  */
 

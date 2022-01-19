@@ -3,6 +3,7 @@
  * Linux I2C core ACPI support code
  *
  * Copyright (C) 2014 Intel Corp, Author: Lan Tianyu <tianyu.lan@intel.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/acpi.h>

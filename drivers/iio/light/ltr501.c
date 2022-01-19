@@ -3,6 +3,7 @@
  * ltr501.c - Support for Lite-On LTR501 ambient light and proximity sensor
  *
  * Copyright 2014 Peter Meerwald <pmeerw@pmeerw.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * 7-bit I2C slave address 0x23
  *

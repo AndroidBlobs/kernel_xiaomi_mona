@@ -3,6 +3,7 @@
  * Generic HDLC support routines for Linux
  *
  * Copyright (C) 1999 - 2008 Krzysztof Halasa <khc@pm.waw.pl>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Currently supported:
  *	* raw IP-in-HDLC

@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (c) 2013, Sony Mobile Communications AB.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __PINCTRL_MSM_H__
 #define __PINCTRL_MSM_H__

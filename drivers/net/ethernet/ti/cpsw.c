@@ -3,6 +3,7 @@
  * Texas Instruments Ethernet Switch Driver
  *
  * Copyright (C) 2012 Texas Instruments
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  */
 

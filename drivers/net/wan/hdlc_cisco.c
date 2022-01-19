@@ -4,6 +4,7 @@
  * Cisco HDLC support
  *
  * Copyright (C) 2000 - 2006 Krzysztof Halasa <khc@pm.waw.pl>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/errno.h>

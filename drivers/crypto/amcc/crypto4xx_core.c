@@ -3,6 +3,7 @@
  * AMCC SoC PPC4xx Crypto Driver
  *
  * Copyright (c) 2008 Applied Micro Circuits Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved. James Hsiao <jhsiao@amcc.com>
  *
  * This file implements AMCC crypto offload Linux device driver for use with

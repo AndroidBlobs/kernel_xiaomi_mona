@@ -3,6 +3,7 @@
  * Generic OPP Interface
  *
  * Copyright (C) 2009-2010 Texas Instruments Incorporated.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	Nishanth Menon
  *	Romit Dasgupta
  *	Kevin Hilman

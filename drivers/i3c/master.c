@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2018 Cadence Design Systems Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Boris Brezillon <boris.brezillon@bootlin.com>
  */

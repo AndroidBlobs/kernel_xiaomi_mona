@@ -3,6 +3,7 @@
  * Regulator driver for PWM Regulators
  *
  * Copyright (C) 2014 - STMicroelectronics Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Lee Jones <lee.jones@linaro.org>
  */

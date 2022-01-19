@@ -2,6 +2,7 @@
 /*
  * An I2C and SPI driver for the NXP PCF2127/29 RTC
  * Copyright 2013 Til-Technologies
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Renaud Cerrato <r.cerrato@til-technologies.fr>
  *

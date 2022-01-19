@@ -4,6 +4,7 @@
  * Mirics MSi3101 SDR Dongle driver
  *
  * Copyright (C) 2013 Antti Palosaari <crope@iki.fi>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * That driver is somehow based of pwc driver:
  *  (C) 1999-2004 Nemosoft Unv.

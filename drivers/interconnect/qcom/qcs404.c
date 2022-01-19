@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2019 Linaro Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <dt-bindings/interconnect/qcom,qcs404.h>

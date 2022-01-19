@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (c) 2010-2011 Picochip Ltd., Jamie Iles
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <crypto/internal/aead.h>
 #include <crypto/aes.h>

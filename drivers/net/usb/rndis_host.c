@@ -2,6 +2,7 @@
 /*
  * Host Side support for RNDIS Networking Links
  * Copyright (C) 2005 by David Brownell
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/module.h>
 #include <linux/netdevice.h>

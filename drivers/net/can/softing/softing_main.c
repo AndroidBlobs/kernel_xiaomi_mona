@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2008-2010
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * - Kurt Van Dijck, EIA Electronics
  */

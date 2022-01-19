@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // Copyright (C) 2017 Arm Ltd.
+// Copyright (C) 2021 XiaoMi, Inc.
 #define pr_fmt(fmt) "sdei: " fmt
 
 #include <acpi/ghes.h>

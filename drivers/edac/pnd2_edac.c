@@ -3,6 +3,7 @@
  * Driver for Pondicherry2 memory controller.
  *
  * Copyright (c) 2016, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * [Derived from sb_edac.c]
  *

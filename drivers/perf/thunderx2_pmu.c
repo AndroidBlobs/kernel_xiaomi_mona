@@ -2,6 +2,7 @@
 /*
  * CAVIUM THUNDERX2 SoC PMU UNCORE
  * Copyright (C) 2018 Cavium Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Ganapatrao Kulkarni <gkulkarni@cavium.com>
  */
 

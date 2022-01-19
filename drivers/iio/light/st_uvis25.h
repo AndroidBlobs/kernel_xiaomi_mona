@@ -3,6 +3,7 @@
  * STMicroelectronics uvis25 sensor driver
  *
  * Copyright 2017 STMicroelectronics Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Lorenzo Bianconi <lorenzo.bianconi83@gmail.com>
  */

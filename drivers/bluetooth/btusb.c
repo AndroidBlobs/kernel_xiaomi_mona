@@ -4,6 +4,7 @@
  *  Generic Bluetooth USB driver
  *
  *  Copyright (C) 2005-2008  Marcel Holtmann <marcel@holtmann.org>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/dmi.h>

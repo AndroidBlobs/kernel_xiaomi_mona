@@ -3,6 +3,7 @@
  * Analog Devices ADF7242 Low-Power IEEE 802.15.4 Transceiver
  *
  * Copyright 2009-2017 Analog Devices Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * http://www.analog.com/ADF7242
  */

@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright (c) 2019 Chelsio Communications, Inc. All rights reserved. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include "cxgb4.h"
 

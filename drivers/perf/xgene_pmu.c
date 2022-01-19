@@ -3,6 +3,7 @@
  * APM X-Gene SoC PMU (Performance Monitor Unit)
  *
  * Copyright (c) 2016, Applied Micro Circuits Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Hoan Tran <hotran@apm.com>
  *         Tai Nguyen <ttnguyen@apm.com>
  */

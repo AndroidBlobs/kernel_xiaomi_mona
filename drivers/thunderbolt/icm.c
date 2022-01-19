@@ -5,6 +5,7 @@
  * handling.
  *
  * Copyright (C) 2017, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Michael Jamet <michael.jamet@intel.com>
  *          Mika Westerberg <mika.westerberg@linux.intel.com>
  */

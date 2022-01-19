@@ -5,6 +5,7 @@
  * Based on of_gpio.c
  *
  * Copyright (C) 2012 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/device.h>

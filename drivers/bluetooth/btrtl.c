@@ -3,6 +3,7 @@
  *  Bluetooth support for Realtek devices
  *
  *  Copyright (C) 2015 Endless Mobile, Inc.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>
