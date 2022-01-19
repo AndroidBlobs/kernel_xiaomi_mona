@@ -4,6 +4,7 @@
 //  fuel-gauge systems for lithium-ion (Li+) batteries
 //
 //  Copyright (C) 2009 Samsung Electronics
+//  Copyright (C) 2021 XiaoMi, Inc.
 //  Minkyu Kang <mk7.kang@samsung.com>
 
 #include <linux/module.h>
