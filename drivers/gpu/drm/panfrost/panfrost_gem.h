@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* Copyright 2019 Linaro, Ltd, Rob Herring <robh@kernel.org> */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef __PANFROST_GEM_H__
 #define __PANFROST_GEM_H__

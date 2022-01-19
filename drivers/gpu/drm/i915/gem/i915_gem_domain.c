@@ -2,6 +2,7 @@
  * SPDX-License-Identifier: MIT
  *
  * Copyright © 2014-2016 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "display/intel_frontbuffer.h"

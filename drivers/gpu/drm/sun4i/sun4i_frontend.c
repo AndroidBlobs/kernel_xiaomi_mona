@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
  * Copyright (C) 2017 Free Electrons
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Maxime Ripard <maxime.ripard@free-electrons.com>
  */
 

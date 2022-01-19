@@ -1,4 +1,5 @@
 /* Copyright 2015 Advanced Micro Devices, Inc. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 #include "dm_services.h"
 #include "dc.h"
 #include "dc_link_dp.h"

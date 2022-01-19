@@ -3,6 +3,7 @@
 // Ingenic JZ47xx KMS driver
 //
 // Copyright (C) 2019, Paul Cercueil <paul@crapouillou.net>
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/clk.h>
 #include <linux/dma-mapping.h>

@@ -4,6 +4,7 @@
  *  Xen para-virtual DRM device
  *
  * Copyright (C) 2016-2018 EPAM Systems Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Oleksandr Andrushchenko <oleksandr_andrushchenko@epam.com>
  */

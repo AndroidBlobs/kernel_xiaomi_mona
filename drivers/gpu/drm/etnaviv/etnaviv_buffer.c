@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2014-2018 Etnaviv Project
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <drm/drm_drv.h>

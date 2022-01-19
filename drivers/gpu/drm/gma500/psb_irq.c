@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /**************************************************************************
  * Copyright (c) 2007, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All Rights Reserved.
  *
  * Intel funded Tungsten Graphics (http://www.tungstengraphics.com) to

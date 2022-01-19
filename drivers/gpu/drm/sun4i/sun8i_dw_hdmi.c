@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
  * Copyright (c) 2018 Jernej Skrabec <jernej.skrabec@siol.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/component.h>

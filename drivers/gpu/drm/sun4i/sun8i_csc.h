@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
 /*
  * Copyright (C) Jernej Skrabec <jernej.skrabec@siol.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _SUN8I_CSC_H_

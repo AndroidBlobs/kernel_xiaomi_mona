@@ -2,6 +2,7 @@
  * SPDX-License-Identifier: MIT
  *
  * Copyright © 2008,2010 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/intel-iommu.h>

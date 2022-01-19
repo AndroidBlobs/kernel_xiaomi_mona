@@ -2,6 +2,7 @@
  * SPDX-License-Identifier: MIT
  *
  * (C) Copyright 2016 Intel Corporation
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/slab.h>

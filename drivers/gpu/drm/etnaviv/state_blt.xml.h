@@ -19,6 +19,7 @@ The rules-ng-ng source files this header was generated from are:
 - state_vg.xml  (   5975 bytes, from 2016-12-08 16:37:56)
 
 Copyright (C) 2012-2017 by the following authors:
+Copyright (C) 2021 XiaoMi, Inc.
 - Wladimir J. van der Laan <laanwj@gmail.com>
 - Christian Gmeiner <christian.gmeiner@gmail.com>
 - Lucas Stach <l.stach@pengutronix.de>
