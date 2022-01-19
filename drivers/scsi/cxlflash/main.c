@@ -6,6 +6,7 @@
  *             Matthew R. Ochs <mrochs@linux.vnet.ibm.com>, IBM Corporation
  *
  * Copyright (C) 2015 IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/delay.h>

@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2019 MediaTek Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors:
  *	Stanley Chu <stanley.chu@mediatek.com>
  *	Peter Wang <peter.wang@mediatek.com>

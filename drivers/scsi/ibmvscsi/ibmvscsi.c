@@ -2,6 +2,7 @@
 /* ------------------------------------------------------------
  * ibmvscsi.c
  * (C) Copyright IBM Corporation 1994, 2004
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Colin DeVilbiss (devilbis@us.ibm.com)
  *          Santiago Leon (santil@us.ibm.com)
  *          Dave Boutcher (sleddog@us.ibm.com)

@@ -3,6 +3,7 @@
  * UFS Crypto ops QTI implementation.
  *
  * Copyright (c) 2020-2021, Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <crypto/algapi.h>

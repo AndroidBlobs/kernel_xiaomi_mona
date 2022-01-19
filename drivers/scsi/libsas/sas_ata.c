@@ -3,6 +3,7 @@
  * Support for SATA devices on Serial Attached SCSI (SAS) controllers
  *
  * Copyright (C) 2006 IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Written by: Darrick J. Wong <djwong@us.ibm.com>, IBM Corporation
  */

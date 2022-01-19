@@ -2,6 +2,7 @@
 /*
  *  QLogic FCoE Offload Driver
  *  Copyright (c) 2016-2018 Cavium Inc.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/init.h>
 #include <linux/kernel.h>

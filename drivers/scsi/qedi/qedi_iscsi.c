@@ -2,6 +2,7 @@
 /*
  * QLogic iSCSI Offload Driver
  * Copyright (c) 2016 Cavium Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/blkdev.h>

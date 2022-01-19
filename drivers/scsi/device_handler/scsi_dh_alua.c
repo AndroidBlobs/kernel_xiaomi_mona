@@ -3,6 +3,7 @@
  * Generic SCSI-3 ALUA SCSI Device Handler
  *
  * Copyright (C) 2007-2010 Hannes Reinecke, SUSE Linux Products GmbH.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  */
 #include <linux/slab.h>

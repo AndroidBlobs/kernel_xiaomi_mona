@@ -2,6 +2,7 @@
  * PMC-Sierra PM8001/8081/8088/8089 SAS/SATA based host adapters driver
  *
  * Copyright (c) 2008-2009 USI Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

@@ -3,6 +3,7 @@
  * Marvell UMI driver
  *
  * Copyright 2011 Marvell. <jyli@marvell.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
 */
 
 #include <linux/kernel.h>

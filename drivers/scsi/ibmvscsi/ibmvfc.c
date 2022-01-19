@@ -5,6 +5,7 @@
  * Written By: Brian King <brking@linux.vnet.ibm.com>, IBM Corporation
  *
  * Copyright (C) IBM Corporation, 2008
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>
