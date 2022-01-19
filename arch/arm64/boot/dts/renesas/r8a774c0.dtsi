@@ -3,6 +3,7 @@
  * Device Tree Source for the RZ/G2E (R8A774C0) SoC
  *
  * Copyright (C) 2018-2019 Renesas Electronics Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <dt-bindings/clock/r8a774c0-cpg-mssr.h>

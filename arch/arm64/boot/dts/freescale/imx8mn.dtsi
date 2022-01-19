@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: (GPL-2.0+ OR MIT)
 /*
  * Copyright 2019 NXP
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <dt-bindings/clock/imx8mn-clock.h>

@@ -3,6 +3,7 @@
  * SDM845 SoC device tree source
  *
  * Copyright (c) 2018, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <dt-bindings/clock/qcom,dispcc-sdm845.h>
