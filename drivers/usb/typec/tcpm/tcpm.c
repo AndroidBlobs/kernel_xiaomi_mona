@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0+
 /*
  * Copyright 2015-2017 Google, Inc
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * USB Power Delivery protocol stack.
  */

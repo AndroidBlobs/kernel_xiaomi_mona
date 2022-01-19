@@ -3,6 +3,7 @@
  * mtu3_debugfs.c - debugfs interface
  *
  * Copyright (C) 2019 MediaTek Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Chunfeng Yun <chunfeng.yun@mediatek.com>
  */

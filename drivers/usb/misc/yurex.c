@@ -3,6 +3,7 @@
  * Driver for Meywa-Denki & KAYAC YUREX
  *
  * Copyright (C) 2010 Tomoki Sekiyama (tomoki.sekiyama@gmail.com)
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

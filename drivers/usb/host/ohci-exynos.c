@@ -3,6 +3,7 @@
  * SAMSUNG EXYNOS USB HOST OHCI Controller
  *
  * Copyright (C) 2011 Samsung Electronics Co.Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Jingoo Han <jg1.han@samsung.com>
  */
 

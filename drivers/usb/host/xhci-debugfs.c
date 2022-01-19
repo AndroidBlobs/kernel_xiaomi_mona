@@ -3,6 +3,7 @@
  * xhci-debugfs.c - xHCI debugfs interface
  *
  * Copyright (C) 2017 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Lu Baolu <baolu.lu@linux.intel.com>
  */

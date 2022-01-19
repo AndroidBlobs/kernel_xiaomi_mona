@@ -3,6 +3,7 @@
  *  REINER SCT cyberJack pinpad/e-com USB Chipcard Reader Driver
  *
  *  Copyright (C) 2001  REINER SCT
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Author: Matthias Bruestle
  *
  *  Contact: support@reiner-sct.com (see MAINTAINERS)

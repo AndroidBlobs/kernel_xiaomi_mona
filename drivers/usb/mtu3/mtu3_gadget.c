@@ -3,6 +3,7 @@
  * mtu3_gadget.c - MediaTek usb3 DRD peripheral support
  *
  * Copyright (C) 2016 MediaTek Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Chunfeng Yun <chunfeng.yun@mediatek.com>
  */

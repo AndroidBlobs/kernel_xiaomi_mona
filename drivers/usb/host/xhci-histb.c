@@ -3,6 +3,7 @@
  * xHCI host controller driver for HiSilicon STB SoCs
  *
  * Copyright (C) 2017-2018 HiSilicon Co., Ltd. http://www.hisilicon.com
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors: Jianguo Sun <sunjianguo1@huawei.com>
  */

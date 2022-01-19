@@ -5,6 +5,7 @@
  * Author: David Mosberger-Tang <davidm@egauge.net>
  *
  * (C) Copyright 2014 David Mosberger-Tang <davidm@egauge.net>
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  *
  * MAX3421 is a chip implementing a USB 2.0 Full-/Low-Speed host
  * controller on a SPI bus.

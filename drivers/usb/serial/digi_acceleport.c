@@ -3,6 +3,7 @@
 *  Digi AccelePort USB-4 and USB-2 Serial Converters
 *
 *  Copyright 2000 by Digi International
+*  Copyright (C) 2021 XiaoMi, Inc.
 *
 *  Shamelessly based on Brian Warner's keyspan_pda.c and Greg Kroah-Hartman's
 *  usb-serial driver.

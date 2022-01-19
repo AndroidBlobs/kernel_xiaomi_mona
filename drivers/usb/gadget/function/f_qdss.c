@@ -3,6 +3,7 @@
  * f_qdss.c -- QDSS function Driver
  *
  * Copyright (c) 2012-2021, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/init.h>

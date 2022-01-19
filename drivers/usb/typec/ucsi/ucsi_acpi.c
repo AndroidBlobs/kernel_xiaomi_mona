@@ -3,6 +3,7 @@
  * UCSI ACPI driver
  *
  * Copyright (C) 2017, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Heikki Krogerus <heikki.krogerus@linux.intel.com>
  */
 

@@ -5,6 +5,7 @@
  * Utility definitions for USB functions
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *		http://www.samsung.com
  *
  * Author: Andrzej Pietrasiewicz <andrzejtp2010@gmail.com>

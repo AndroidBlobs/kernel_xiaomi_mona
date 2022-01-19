@@ -5,6 +5,7 @@
  * Test pattern generation for Link Layer Validation System Tests
  *
  * Copyright (C) 2014 ST Microelectronics
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Pratyush Anand <pratyush.anand@gmail.com>
  */
 

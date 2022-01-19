@@ -3,6 +3,7 @@
   USB Driver for GSM modems
 
   Copyright (C) 2005  Matthias Urlichs <smurf@smurf.noris.de>
+  Copyright (C) 2021 XiaoMi, Inc.
 
   Portions copied from the Keyspan driver by Hugh Blemings <hugh@blemings.org>
 

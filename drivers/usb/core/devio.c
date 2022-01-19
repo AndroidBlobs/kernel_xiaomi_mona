@@ -5,6 +5,7 @@
  *      devio.c  --  User space communication with USB devices.
  *
  *      Copyright (C) 1999-2000  Thomas Sailer (sailer@ife.ee.ethz.ch)
+ *      Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This file implements the usbfs/x/y files, where
  *  x is the bus number and y the device number.
