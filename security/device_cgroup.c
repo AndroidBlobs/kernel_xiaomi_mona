@@ -3,6 +3,7 @@
  * device_cgroup.c - device cgroup subsystem
  *
  * Copyright 2007 IBM Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/device_cgroup.h>
