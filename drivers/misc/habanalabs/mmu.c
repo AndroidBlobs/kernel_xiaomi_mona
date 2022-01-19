@@ -2,6 +2,7 @@
 
 /*
  * Copyright 2016-2019 HabanaLabs, Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All Rights Reserved.
  */
 

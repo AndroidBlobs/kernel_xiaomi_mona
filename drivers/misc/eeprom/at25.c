@@ -3,6 +3,7 @@
  * at25.c -- support most SPI EEPROMs, such as Atmel AT25 models
  *
  * Copyright (C) 2006 David Brownell
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

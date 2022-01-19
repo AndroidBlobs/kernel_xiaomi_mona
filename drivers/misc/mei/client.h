@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /*
  * Copyright (c) 2003-2018, Intel Corporation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Intel Management Engine Interface (Intel MEI) Linux driver
  */
 

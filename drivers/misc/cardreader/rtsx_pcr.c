@@ -2,6 +2,7 @@
 /* Driver for Realtek PCI-Express card reader
  *
  * Copyright(c) 2009-2013 Realtek Semiconductor Corp. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  *   Wei WANG <wei_wang@realsil.com.cn>

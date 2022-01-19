@@ -3,6 +3,7 @@
  * Intel MIC Platform Software Stack (MPSS)
  *
  * Copyright(c) 2015 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Intel SCIF driver.
  */

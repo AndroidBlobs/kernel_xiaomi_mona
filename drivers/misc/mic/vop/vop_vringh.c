@@ -3,6 +3,7 @@
  * Intel MIC Platform Software Stack (MPSS)
  *
  * Copyright(c) 2016 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Intel Virtio Over PCIe (VOP) driver.
  */
