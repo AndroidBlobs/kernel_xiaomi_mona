@@ -3,6 +3,7 @@
  * bvec iterator
  *
  * Copyright (C) 2001 Ming Lei <ming.lei@canonical.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __LINUX_BVEC_ITER_H
 #define __LINUX_BVEC_ITER_H

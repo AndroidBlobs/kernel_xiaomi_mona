@@ -3,6 +3,7 @@
  * Universal Interface for Intel High Definition Audio Codec
  *
  * Copyright (c) 2004 Takashi Iwai <tiwai@suse.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __SOUND_HDA_CODEC_H

@@ -2,6 +2,7 @@
 
 /*
  * Copyright (c) 2020-2021, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __SOC_QCOM_LPM_LEVEL_H__

@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (c) 2020, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef _DT_BINDINGS_PHY_QCOM_SM8150_QMP_USB_H
 #define _DT_BINDINGS_PHY_QCOM_SM8150_QMP_USB_H

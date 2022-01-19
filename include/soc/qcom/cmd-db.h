@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /* Copyright (c) 2016-2019, The Linux Foundation. All rights reserved. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef __QCOM_COMMAND_DB_H__
 #define __QCOM_COMMAND_DB_H__

@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0-only
  * Copyright (c) 2011-2021, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __QCOM_BOOT_STATS_H__
 #define __QCOM_BOOT_STATS_H__

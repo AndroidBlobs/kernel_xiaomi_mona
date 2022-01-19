@@ -3,6 +3,7 @@
  * skl-tplg-interface.h - Intel DSP FW private data interface
  *
  * Copyright (C) 2015 Intel Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Jeeja KP <jeeja.kp@intel.com>
  *	    Nilofer, Samreen <samreen.nilofer@intel.com>
  */

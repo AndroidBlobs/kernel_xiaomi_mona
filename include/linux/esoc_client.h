@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /* Copyright (c) 2014, 2017-2021, The Linux Foundation. All rights reserved. */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef __ESOC_CLIENT_H_
 #define __ESOC_CLIENT_H_

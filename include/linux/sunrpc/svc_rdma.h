@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0 OR BSD-3-Clause */
 /*
  * Copyright (c) 2005-2006 Network Appliance, Inc. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This software is available to you under a choice of one of two
  * licenses.  You may choose to be licensed under the terms of the GNU

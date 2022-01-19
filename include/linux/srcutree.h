@@ -4,6 +4,7 @@
  *	tree variant.
  *
  * Copyright (C) IBM Corporation, 2017
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Paul McKenney <paulmck@linux.ibm.com>
  */

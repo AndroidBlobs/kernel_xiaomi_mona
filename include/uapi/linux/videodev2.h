@@ -3,6 +3,7 @@
  *  Video for Linux Two header file
  *
  *  Copyright (C) 1999-2012 the contributors
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by

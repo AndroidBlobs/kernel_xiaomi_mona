@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0-only WITH Linux-syscall-note */
 /* Copyright (c) 2015-2020, The Linux Foundation. All rights reserved.*/
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #ifndef _UAPI_MHI_H
 #define _UAPI_MHI_H

@@ -4,6 +4,7 @@
 
 /*
  * 	genhd.h Copyright (C) 1992 Drew Eckhardt
+ * 	genhd.h Copyright (C) 2021 XiaoMi, Inc.
  *	Generic hard disk header file by  
  * 		Drew Eckhardt
  *

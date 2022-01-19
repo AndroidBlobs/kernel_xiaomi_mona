@@ -1,5 +1,6 @@
 /*
  * Copyright 2018, QNX Software Systems Limited (“QSS”).
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Redistribution and use in source and binary forms, with or without
  * modification, are permitted provided that the following conditions

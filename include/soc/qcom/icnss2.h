@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (c) 2015-2021, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef _ICNSS_WLAN_H_
 #define _ICNSS_WLAN_H_
@@ -20,6 +21,7 @@ enum icnss_uevent {
 	ICNSS_UEVENT_FW_CRASHED,
 	ICNSS_UEVENT_FW_DOWN,
 	ICNSS_UEVENT_HANG_DATA,
+	ICNSS_UEVENT_SMMU_FAULT,
 };
 
 struct icnss_uevent_hang_data {

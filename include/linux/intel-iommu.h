@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright © 2006-2015, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors: Ashok Raj <ashok.raj@intel.com>
  *          Anil S Keshavamurthy <anil.s.keshavamurthy@intel.com>

@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright 2015-2020, Linaro Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _DT_BINDINGS_CLK_MSM_RPMCC_H

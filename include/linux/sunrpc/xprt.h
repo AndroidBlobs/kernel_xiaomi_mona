@@ -5,6 +5,7 @@
  *  Declarations for the RPC transport interface.
  *
  *  Copyright (C) 1995, 1996 Olaf Kirch <okir@monad.swb.de>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _LINUX_SUNRPC_XPRT_H

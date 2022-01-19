@@ -5,6 +5,7 @@
  * Definitions for the CAN network socket buffer
  *
  * Copyright (C) 2012 Oliver Hartkopp <socketcan@hartkopp.net>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  */
 

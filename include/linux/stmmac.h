@@ -4,6 +4,7 @@
   Header file for stmmac platform data
 
   Copyright (C) 2009  STMicroelectronics Ltd
+  Copyright (C) 2021 XiaoMi, Inc.
 
 
   Author: Giuseppe Cavallaro <peppe.cavallaro@st.com>

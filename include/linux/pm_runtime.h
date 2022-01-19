@@ -3,6 +3,7 @@
  * pm_runtime.h - Device run-time power management helper functions.
  *
  * Copyright (C) 2009 Rafael J. Wysocki <rjw@sisk.pl>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _LINUX_PM_RUNTIME_H

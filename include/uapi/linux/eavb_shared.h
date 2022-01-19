@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only WITH Linux-syscall-note */
 /*
  * Copyright (c) 2020-2021 The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __EAVB_SHARED_H__
 #define __EAVB_SHARED_H__

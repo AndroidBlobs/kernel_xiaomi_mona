@@ -3,6 +3,7 @@
  * xHCI secondary ring APIs
  *
  * Copyright (c) 2019,2021 The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __LINUX_XHCI_SEC_H

@@ -3,6 +3,7 @@
  *  pm.h - Power management interface
  *
  *  Copyright (C) 2000 Andrew Henroid
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _LINUX_PM_H

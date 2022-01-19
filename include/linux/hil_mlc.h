@@ -2,6 +2,7 @@
  * HP Human Interface Loop Master Link Controller driver.
  *
  * Copyright (c) 2001 Brian S. Julin
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without
