@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 1992 Darren Senn
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /* These are all the functions necessary to implement itimers */

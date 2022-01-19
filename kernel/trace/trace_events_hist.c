@@ -3,6 +3,7 @@
  * trace_events_hist - trace event hist triggers
  *
  * Copyright (C) 2015 Tom Zanussi <tom.zanussi@linux.intel.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

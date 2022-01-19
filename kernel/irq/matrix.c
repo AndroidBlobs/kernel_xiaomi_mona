@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // Copyright (C) 2017 Thomas Gleixner <tglx@linutronix.de>
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/spinlock.h>
 #include <linux/seq_file.h>

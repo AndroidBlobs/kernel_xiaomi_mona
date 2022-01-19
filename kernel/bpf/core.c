@@ -6,6 +6,7 @@
  * internal format has been designed by PLUMgrid:
  *
  *	Copyright (c) 2011 - 2014 PLUMgrid, http://plumgrid.com
+ *	Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *

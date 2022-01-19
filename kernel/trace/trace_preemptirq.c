@@ -3,6 +3,7 @@
  * preemptoff and irqoff tracepoints
  *
  * Copyright (C) Joel Fernandes (Google) <joel@joelfernandes.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kallsyms.h>

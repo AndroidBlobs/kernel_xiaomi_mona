@@ -3,6 +3,7 @@
  * trace_output.c
  *
  * Copyright (C) 2008 Red Hat Inc, Steven Rostedt <srostedt@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  */
 #include <linux/module.h>

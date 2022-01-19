@@ -3,6 +3,7 @@
  * Read-Copy Update mechanism for mutual exclusion
  *
  * Copyright IBM Corporation, 2008
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors: Dipankar Sarma <dipankar@in.ibm.com>
  *	    Manfred Spraul <manfred@colorfullife.com>

@@ -4,6 +4,7 @@
  *  kernel/kprobes.c
  *
  * Copyright (C) IBM Corporation, 2002, 2004
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * 2002-Oct	Created by Vamsi Krishna S <vamsi_krishna@in.ibm.com> Kernel
  *		Probes initial implementation (includes suggestions from
