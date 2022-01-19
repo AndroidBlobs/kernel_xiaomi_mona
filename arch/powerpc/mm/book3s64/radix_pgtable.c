@@ -3,6 +3,7 @@
  * Page table handling routines for radix page table.
  *
  * Copyright 2015-2016, Aneesh Kumar K.V, IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define pr_fmt(fmt) "radix-mmu: " fmt

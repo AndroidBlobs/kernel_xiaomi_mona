@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright(c) 2015 EZchip Technologies.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _PLAT_EZNPS_CTOP_H

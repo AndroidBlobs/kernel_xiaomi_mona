@@ -2,6 +2,7 @@
  * Utility functions for x86 operand and address decoding
  *
  * Copyright (C) Intel Corporation 2017
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/kernel.h>
 #include <linux/string.h>

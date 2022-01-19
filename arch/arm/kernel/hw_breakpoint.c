@@ -2,6 +2,7 @@
 /*
  *
  * Copyright (C) 2009, 2010 ARM Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Will Deacon <will.deacon@arm.com>
  */

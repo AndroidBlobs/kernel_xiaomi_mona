@@ -3,6 +3,7 @@
  * arch/arm/include/asm/kprobes.h
  *
  * Copyright (C) 2006, 2007 Motorola Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ARM_KPROBES_H

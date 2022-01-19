@@ -5,6 +5,7 @@
 #
 # Created by:	Nicolas Pitre, August 2017
 # Copyright:	(C) 2017  Linaro Limited
+# Copyright (C) 2021 XiaoMi, Inc.
 #
 
 # This script locates the start of the .data section in xipImage and

@@ -281,6 +281,7 @@ struct irq_data;
 
 /*
  * Copyright 2004 James Cleverdon, IBM.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Generic APIC sub-arch data struct.
  *

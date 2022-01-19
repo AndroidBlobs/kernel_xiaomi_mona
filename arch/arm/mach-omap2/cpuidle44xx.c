@@ -3,6 +3,7 @@
  * OMAP4+ CPU idle Routines
  *
  * Copyright (C) 2011-2013 Texas Instruments, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Santosh Shilimkar <santosh.shilimkar@ti.com>
  * Rajendra Nayak <rnayak@ti.com>
  */

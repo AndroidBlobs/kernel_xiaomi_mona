@@ -2,6 +2,7 @@
  * Performance events - AMD IBS
  *
  *  Copyright (C) 2011 Advanced Micro Devices, Inc., Robert Richter
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  For licencing details see kernel-base/COPYING
  */

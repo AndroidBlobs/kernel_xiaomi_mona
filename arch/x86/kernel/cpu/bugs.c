@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  *  Copyright (C) 1994  Linus Torvalds
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  Cyrix stuff, June 1998 by:
  *	- Rafael R. Reilova (moved everything from head.S),

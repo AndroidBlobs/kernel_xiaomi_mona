@@ -3,6 +3,7 @@
  * Initialize MMU support.
  *
  * Copyright (C) 1998-2003 Hewlett-Packard Co
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	David Mosberger-Tang <davidm@hpl.hp.com>
  */
 #include <linux/kernel.h>

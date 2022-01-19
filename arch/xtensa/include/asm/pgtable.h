@@ -3,6 +3,7 @@
  * include/asm-xtensa/pgtable.h
  *
  * Copyright (C) 2001 - 2013 Tensilica Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _XTENSA_PGTABLE_H

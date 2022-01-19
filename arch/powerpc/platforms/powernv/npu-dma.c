@@ -4,6 +4,7 @@
  * devices all point to the same iommu table as the parent PCI device.
  *
  * Copyright Alistair Popple, IBM Corporation 2015.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/mmu_notifier.h>

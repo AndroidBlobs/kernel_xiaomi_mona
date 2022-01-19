@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /* Copyright 2002 Andi Kleen */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/linkage.h>
 #include <asm/errno.h>

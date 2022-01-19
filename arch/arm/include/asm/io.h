@@ -3,6 +3,7 @@
  *  arch/arm/include/asm/io.h
  *
  *  Copyright (C) 1996-2000 Russell King
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  * Modifications:
  *  16-Sep-1996	RMK	Inlined the inx/outx functions & optimised for both

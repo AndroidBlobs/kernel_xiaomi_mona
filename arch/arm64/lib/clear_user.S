@@ -3,6 +3,7 @@
  * Based on arch/arm/lib/clear_user.S
  *
  * Copyright (C) 2012 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/linkage.h>
 

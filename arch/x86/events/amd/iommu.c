@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2013 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Steven Kinney <Steven.Kinney@amd.com>
  * Author: Suravee Suthikulpanit <Suraveee.Suthikulpanit@amd.com>

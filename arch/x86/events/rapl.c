@@ -2,6 +2,7 @@
 /*
  * Support Intel/AMD RAPL energy consumption counters
  * Copyright (C) 2013 Google, Inc., Stephane Eranian
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Intel RAPL interface is specified in the IA-32 Manual Vol3b
  * section 14.7.1 (September 2013)

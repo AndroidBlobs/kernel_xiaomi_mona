@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) 2006 Benjamin Herrenschmidt, IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Provide default implementations of the DMA mapping callbacks for
  * busses using the iommu infrastructure

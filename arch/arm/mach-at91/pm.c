@@ -4,6 +4,7 @@
  * AT91 Power Management
  *
  * Copyright (C) 2005 David Brownell
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/genalloc.h>

@@ -4,6 +4,7 @@
  * Common boot and setup code.
  *
  * Copyright (C) 2001 PPC64 Team, IBM Corp
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/export.h>

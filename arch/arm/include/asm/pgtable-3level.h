@@ -3,6 +3,7 @@
  * arch/arm/include/asm/pgtable-3level.h
  *
  * Copyright (C) 2011 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Catalin Marinas <catalin.marinas@arm.com>
  */
 #ifndef _ASM_PGTABLE_3LEVEL_H

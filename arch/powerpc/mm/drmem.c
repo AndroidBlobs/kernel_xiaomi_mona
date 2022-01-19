@@ -3,6 +3,7 @@
  * Dynamic reconfiguration memory support
  *
  * Copyright 2017 IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define pr_fmt(fmt) "drmem: " fmt

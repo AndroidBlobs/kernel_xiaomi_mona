@@ -3,6 +3,7 @@
  * arch/arm64/include/asm/cpucaps.h
  *
  * Copyright (C) 2016 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __ASM_CPUCAPS_H
 #define __ASM_CPUCAPS_H

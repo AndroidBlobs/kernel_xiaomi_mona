@@ -3,6 +3,7 @@
  *  64-bit pSeries and RS/6000 setup code.
  *
  *  Copyright (C) 1995  Linus Torvalds
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Adapted from 'alpha' version by Gary Thomas
  *  Modified by Cort Dougan (cort@cs.nmt.edu)
  *  Modified by PPC64 Team, IBM Corp

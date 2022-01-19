@@ -2,6 +2,7 @@
  *  arch/m68k/q40/config.c
  *
  *  Copyright (C) 1999 Richard Zidlicky
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  * originally based on:
  *

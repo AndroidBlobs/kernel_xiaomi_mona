@@ -3,6 +3,7 @@
  *  arch/arm/include/asm/pgtable-2level.h
  *
  *  Copyright (C) 1995-2002 Russell King
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef _ASM_PGTABLE_2LEVEL_H
 #define _ASM_PGTABLE_2LEVEL_H

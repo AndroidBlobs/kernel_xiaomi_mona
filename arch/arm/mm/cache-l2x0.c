@@ -3,6 +3,7 @@
  * arch/arm/mm/cache-l2x0.c - L210/L220/L310 cache controller support
  *
  * Copyright (C) 2007 ARM Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/cpu.h>
 #include <linux/err.h>

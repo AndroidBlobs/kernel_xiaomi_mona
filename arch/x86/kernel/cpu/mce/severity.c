@@ -2,6 +2,7 @@
 /*
  * MCE grading rules.
  * Copyright 2008, 2009 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Andi Kleen
  */

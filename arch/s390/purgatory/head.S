@@ -3,6 +3,7 @@
  * Purgatory setup code
  *
  * Copyright IBM Corp. 2018
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author(s): Philipp Rudo <prudo@linux.vnet.ibm.com>
  */

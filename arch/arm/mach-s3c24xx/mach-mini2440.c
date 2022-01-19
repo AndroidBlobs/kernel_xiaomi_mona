@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 //
 // Copyright (c) 2008 Ramax Lo <ramaxlo@gmail.com>
+// Copyright (C) 2021 XiaoMi, Inc.
 //      Based on mach-anubis.c by Ben Dooks <ben@simtec.co.uk>
 //      and modifications by SBZ <sbz@spgui.org> and
 //      Weibing <http://weibing.blogbus.com> and

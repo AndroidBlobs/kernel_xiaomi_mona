@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2014-2017 Linaro Ltd. <ard.biesheuvel@linaro.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/elf.h>

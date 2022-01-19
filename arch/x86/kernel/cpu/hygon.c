@@ -3,6 +3,7 @@
  * Hygon Processor Support for Linux
  *
  * Copyright (C) 2018 Chengdu Haiguang IC Design Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Pu Wen <puwen@hygon.cn>
  */

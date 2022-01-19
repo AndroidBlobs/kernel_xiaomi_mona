@@ -3,6 +3,7 @@
  * Error log support on PowerNV.
  *
  * Copyright 2013,2014 IBM Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/kernel.h>
 #include <linux/init.h>

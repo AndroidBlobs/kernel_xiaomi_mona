@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  *    Copyright IBM Corp. 2004, 2011
+ *    Copyright (C) 2021 XiaoMi, Inc.
  *    Author(s): Martin Schwidefsky <schwidefsky@de.ibm.com>,
  *		 Holger Smolinski <Holger.Smolinski@de.ibm.com>,
  *		 Thomas Spatzier <tspat@de.ibm.com>,

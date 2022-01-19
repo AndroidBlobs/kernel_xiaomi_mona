@@ -3,6 +3,7 @@
  *  ARM64 Specific Low-Level ACPI Boot Support
  *
  *  Copyright (C) 2013-2014, Linaro Ltd.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *	Author: Al Stone <al.stone@linaro.org>
  *	Author: Graeme Gregory <graeme.gregory@linaro.org>
  *	Author: Hanjun Guo <hanjun.guo@linaro.org>

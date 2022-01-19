@@ -2,6 +2,7 @@
 /*
  * Intel MID PCI support
  *   Copyright (c) 2008 Intel Corporation
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *     Jesse Barnes <jesse.barnes@intel.com>
  *
  * Moorestown has an interesting PCI implementation:

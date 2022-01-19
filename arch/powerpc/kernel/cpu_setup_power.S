@@ -2,6 +2,7 @@
 /*
  * This file contains low level CPU setup functions.
  *    Copyright (C) 2003 Benjamin Herrenschmidt (benh@kernel.crashing.org)
+ *    Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <asm/processor.h>

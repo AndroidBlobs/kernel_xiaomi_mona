@@ -4,6 +4,7 @@
  * - Monitoring code
  *
  * Copyright (C) 2017 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author:
  *    Vikas Shivappa <vikas.shivappa@intel.com>

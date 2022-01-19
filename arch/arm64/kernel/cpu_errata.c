@@ -3,6 +3,7 @@
  * Contains CPU specific errata definitions
  *
  * Copyright (C) 2014 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/arm-smccc.h>

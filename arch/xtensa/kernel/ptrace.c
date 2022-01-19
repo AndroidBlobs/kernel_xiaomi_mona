@@ -4,6 +4,7 @@
  * for more details.
  *
  * Copyright (C) 2001 - 2007  Tensilica Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Joe Taylor	<joe@tensilica.com, joetylr@yahoo.com>
  * Chris Zankel <chris@zankel.net>

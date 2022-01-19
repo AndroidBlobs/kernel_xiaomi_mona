@@ -3,6 +3,7 @@
  * In-Memory Collection (IMC) Performance Monitor counter support.
  *
  * Copyright (C) 2017 Madhavan Srinivasan, IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *           (C) 2017 Anju T Sudhakar, IBM Corporation.
  *           (C) 2017 Hemant K Shaw, IBM Corporation.
  */

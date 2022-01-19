@@ -3,6 +3,7 @@
  *  linux/arch/arm/kernel/traps.c
  *
  *  Copyright (C) 1995-2009 Russell King
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Fragments that appear the same as linux/arch/i386/kernel/traps.c (C) Linus Torvalds
  *
  *  'traps.c' handles hardware exceptions after we have saved some state in

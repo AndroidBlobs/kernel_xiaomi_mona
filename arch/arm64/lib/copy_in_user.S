@@ -3,6 +3,7 @@
  * Copy from user space to user space
  *
  * Copyright (C) 2012 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/linkage.h>

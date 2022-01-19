@@ -3,6 +3,7 @@
  * Based on arch/arm/include/asm/traps.h
  *
  * Copyright (C) 2012 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __ASM_TRAP_H
 #define __ASM_TRAP_H

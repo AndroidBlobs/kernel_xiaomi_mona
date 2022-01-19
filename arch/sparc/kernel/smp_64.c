@@ -2,6 +2,7 @@
 /* smp.c: Sparc64 SMP support.
  *
  * Copyright (C) 1997, 2007, 2008 David S. Miller (davem@davemloft.net)
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/export.h>

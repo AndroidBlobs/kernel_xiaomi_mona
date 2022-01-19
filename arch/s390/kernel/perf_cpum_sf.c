@@ -3,6 +3,7 @@
  * Performance event support for the System z CPU-measurement Sampling Facility
  *
  * Copyright IBM Corp. 2013, 2018
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author(s): Hendrik Brueckner <brueckner@linux.vnet.ibm.com>
  */
 #define KMSG_COMPONENT	"cpum_sf"

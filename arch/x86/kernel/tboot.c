@@ -4,6 +4,7 @@
  *          runtime support of Intel(R) Trusted Execution Technology
  *
  * Copyright (c) 2006-2009, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/intel-iommu.h>

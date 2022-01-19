@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (C) 2012 Regents of the University of California
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ASM_RISCV_PGTABLE_32_H

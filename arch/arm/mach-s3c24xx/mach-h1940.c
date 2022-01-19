@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 //
 // Copyright (c) 2003-2005 Simtec Electronics
+// Copyright (C) 2021 XiaoMi, Inc.
 //   Ben Dooks <ben@simtec.co.uk>
 //
 // http://www.handhelds.org/projects/h1940.html

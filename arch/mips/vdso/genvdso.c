@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (C) 2015 Imagination Technologies
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Alex Smith <alex.smith@imgtec.com>
  */
 

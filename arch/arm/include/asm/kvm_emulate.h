@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (C) 2012 - Virtual Open Systems and Columbia University
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Christoffer Dall <c.dall@virtualopensystems.com>
  */
 

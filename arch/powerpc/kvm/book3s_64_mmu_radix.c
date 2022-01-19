@@ -2,6 +2,7 @@
 /*
  *
  * Copyright 2016 Paul Mackerras, IBM Corp. <paulus@au1.ibm.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

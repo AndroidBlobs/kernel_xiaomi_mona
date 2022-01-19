@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (C) 2016 ARM Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef __ASM_SECTIONS_H
 #define __ASM_SECTIONS_H

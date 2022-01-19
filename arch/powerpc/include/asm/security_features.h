@@ -3,6 +3,7 @@
  * Security related feature bit definitions.
  *
  * Copyright 2018, Michael Ellerman, IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ASM_POWERPC_SECURITY_FEATURES_H

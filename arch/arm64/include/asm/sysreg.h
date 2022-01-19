@@ -3,6 +3,7 @@
  * Macros for accessing system registers with older binutils.
  *
  * Copyright (C) 2014 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Catalin Marinas <catalin.marinas@arm.com>
  */
 

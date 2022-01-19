@@ -5,6 +5,7 @@
  *
  * Peter Bergner, IBM	March 2001.
  * Copyright (C) 2001 IBM.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <stdarg.h>

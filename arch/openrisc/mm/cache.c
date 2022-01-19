@@ -8,6 +8,7 @@
  *
  * Modifications for the OpenRISC architecture:
  * Copyright (C) 2015 Jan Henrik Weinstock <jan.weinstock@rwth-aachen.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <asm/spr.h>

@@ -3,6 +3,7 @@
  * Kexec bzImage loader
  *
  * Copyright (C) 2014 Red Hat Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors:
  *      Vivek Goyal <vgoyal@redhat.com>
  */

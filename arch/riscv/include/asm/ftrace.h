@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* Copyright (C) 2017 Andes Technology Corporation */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 /*
  * The graph frame test is not possible if CONFIG_FRAME_POINTER is not enabled.

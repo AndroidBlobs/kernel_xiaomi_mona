@@ -2,6 +2,7 @@
  * arch/arm64/kernel/topology.c
  *
  * Copyright (C) 2011,2013,2014 Linaro Limited.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Based on the arm32 version written by Vincent Guittot in turn based on
  * arch/sh/kernel/topology.c

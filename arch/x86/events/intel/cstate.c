@@ -2,6 +2,7 @@
  * Support cstate residency counters
  *
  * Copyright (C) 2015, Intel Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Kan Liang (kan.liang@intel.com)
  *
  * This library is free software; you can redistribute it and/or

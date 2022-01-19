@@ -3,6 +3,7 @@
  * AMD Memory Encryption Support
  *
  * Copyright (C) 2016 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Tom Lendacky <thomas.lendacky@amd.com>
  */

@@ -5,6 +5,7 @@
  * Declare the NUMA core code structures and functions.
  *
  * Copyright IBM Corp. 2015
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ASM_S390_NUMA_H

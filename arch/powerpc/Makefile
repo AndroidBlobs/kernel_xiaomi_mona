@@ -8,6 +8,7 @@
 # for more details.
 #
 # Copyright (C) 1994 by Linus Torvalds
+# Copyright (C) 2021 XiaoMi, Inc.
 # Changes for PPC by Gary Thomas
 # Rewritten by Cort Dougan and Paul Mackerras
 #

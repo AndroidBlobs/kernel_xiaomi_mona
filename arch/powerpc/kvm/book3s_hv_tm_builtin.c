@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright 2017 Paul Mackerras, IBM Corp. <paulus@au1.ibm.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kvm_host.h>

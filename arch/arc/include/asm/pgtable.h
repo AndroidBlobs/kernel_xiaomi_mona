@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (C) 2004, 2007-2010, 2011-2012 Synopsys, Inc. (www.synopsys.com)
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * vineetg: May 2011
  *  -Folded PAGE_PRESENT (used by VM) and PAGE_VALID (used by MMU) into 1.

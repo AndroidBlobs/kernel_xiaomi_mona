@@ -9,6 +9,7 @@
 # for more details.
 #
 # Copyright (C) 1998-2004 by David Mosberger-Tang <davidm@hpl.hp.com>
+# Copyright (C) 2021 XiaoMi, Inc.
 #
 
 KBUILD_DEFCONFIG := generic_defconfig

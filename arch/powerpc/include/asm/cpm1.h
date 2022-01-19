@@ -2,6 +2,7 @@
 /*
  * MPC8xx Communication Processor Module.
  * Copyright (c) 1997 Dan Malek (dmalek@jlc.net)
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file contains structures and information for the communication
  * processor channels.  Some CPM control and status is available

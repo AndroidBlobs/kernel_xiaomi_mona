@@ -4,6 +4,7 @@
 // This code is inspired by the perf support of various other architectures.
 //
 // Copyright (C) 2013-2018 Synopsys, Inc. (www.synopsys.com)
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/errno.h>
 #include <linux/interrupt.h>

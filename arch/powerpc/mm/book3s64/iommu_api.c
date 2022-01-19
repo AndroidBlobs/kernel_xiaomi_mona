@@ -3,6 +3,7 @@
  *  IOMMU helpers in MMU context.
  *
  *  Copyright (C) 2015 IBM Corp. <aik@ozlabs.ru>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/sched/signal.h>

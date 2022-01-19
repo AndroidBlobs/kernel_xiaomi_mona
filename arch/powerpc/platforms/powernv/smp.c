@@ -3,6 +3,7 @@
  * SMP support for PowerNV machines.
  *
  * Copyright 2011 IBM Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

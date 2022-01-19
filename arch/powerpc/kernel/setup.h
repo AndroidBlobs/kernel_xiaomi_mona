@@ -3,6 +3,7 @@
  * Prototypes for functions that are shared between setup_(32|64|common).c
  *
  * Copyright 2016 Michael Ellerman, IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __ARCH_POWERPC_KERNEL_SETUP_H

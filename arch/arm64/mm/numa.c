@@ -3,6 +3,7 @@
  * NUMA support, based on the x86 implementation.
  *
  * Copyright (C) 2015 Cavium Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Ganapatrao Kulkarni <gkulkarni@cavium.com>
  */
 

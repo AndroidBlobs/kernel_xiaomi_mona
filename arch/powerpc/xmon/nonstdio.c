@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (C) 1996-2005 Paul Mackerras.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/string.h>
 #include <asm/udbg.h>

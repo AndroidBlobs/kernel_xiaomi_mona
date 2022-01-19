@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright 2011 IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/types.h>
 #include <linux/kernel.h>

@@ -3,6 +3,7 @@
  * kexec_file for arm64
  *
  * Copyright (C) 2018 Linaro Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: AKASHI Takahiro <takahiro.akashi@linaro.org>
  *
  * Most code is derived from arm64 port of kexec-tools

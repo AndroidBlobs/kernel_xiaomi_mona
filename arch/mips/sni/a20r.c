@@ -6,6 +6,7 @@
  * for more details.
  *
  * Copyright (C) 2006 Thomas Bogendoerfer (tsbogend@alpha.franken.de)
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/init.h>

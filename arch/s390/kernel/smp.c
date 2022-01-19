@@ -3,6 +3,7 @@
  *  SMP related functions
  *
  *    Copyright IBM Corp. 1999, 2012
+ *    Copyright (C) 2021 XiaoMi, Inc.
  *    Author(s): Denis Joseph Barrow,
  *		 Martin Schwidefsky <schwidefsky@de.ibm.com>,
  *		 Heiko Carstens <heiko.carstens@de.ibm.com>,

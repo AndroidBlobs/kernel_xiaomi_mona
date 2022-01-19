@@ -5,6 +5,7 @@
  * Implement NUMA core code.
  *
  * Copyright IBM Corp. 2015
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define KMSG_COMPONENT "numa"

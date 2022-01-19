@@ -5,6 +5,7 @@
  *	(c) 1995 Alan Cox, Building #3 <alan@lxorguk.ukuu.org.uk>
  *	(c) 1998, 1999, 2000, 2009 Ingo Molnar <mingo@redhat.com>
  *	Copyright 2001 Andi Kleen, SuSE Labs.
+ *	Copyright (C) 2021 XiaoMi, Inc.
  *
  *	Much of the core SMP work is based on previous work by Thomas Radke, to
  *	whom a great many thanks are extended.

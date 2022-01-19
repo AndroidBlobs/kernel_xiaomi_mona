@@ -3,6 +3,7 @@
  * drmem.h: Power specific logical memory block representation
  *
  * Copyright 2017 IBM Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ASM_POWERPC_LMB_H

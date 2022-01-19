@@ -3,6 +3,7 @@
  * Accelerated CRC32(C) using AArch64 CRC instructions
  *
  * Copyright (C) 2016 - 2018 Linaro Ltd <ard.biesheuvel@linaro.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/linkage.h>

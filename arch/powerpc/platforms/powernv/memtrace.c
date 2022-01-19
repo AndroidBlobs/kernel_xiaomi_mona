@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (C) IBM Corporation, 2014, 2017
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Anton Blanchard, Rashmica Gupta.
  */
 

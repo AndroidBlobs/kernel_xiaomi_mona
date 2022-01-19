@@ -3,6 +3,7 @@
  * User interface for Resource Alloction in Resource Director Technology(RDT)
  *
  * Copyright (C) 2016 Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Fenghua Yu <fenghua.yu@intel.com>
  *

@@ -3,6 +3,7 @@
  * TLB flush routines for radix kernels.
  *
  * Copyright 2015-2016, Aneesh Kumar K.V, IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/mm.h>

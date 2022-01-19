@@ -4,6 +4,7 @@
  * for more details.
  *
  * Copyright (C) 2011 by Kevin Cernekee (cernekee@gmail.com)
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * SMP support for BMIPS
  */

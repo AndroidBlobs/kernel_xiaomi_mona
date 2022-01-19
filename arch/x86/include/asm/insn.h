@@ -5,6 +5,7 @@
  * x86 instruction analysis
  *
  * Copyright (C) IBM Corporation, 2009
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /* insn_attr_t is defined in inat.h */

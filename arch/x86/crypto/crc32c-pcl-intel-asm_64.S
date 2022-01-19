@@ -7,6 +7,7 @@
  * http://www.intel.com/content/dam/www/public/us/en/documents/white-papers/fast-crc-computation-paper.pdf
  *
  * Copyright (C) 2012 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Authors:
  *	Wajdi Feghali <wajdi.k.feghali@intel.com>

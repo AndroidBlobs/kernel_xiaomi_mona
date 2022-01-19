@@ -2,6 +2,7 @@
 /*
  *  S390 version
  *    Copyright IBM Corp. 1999, 2000
+ *    Copyright (C) 2021 XiaoMi, Inc.
  *    Author(s): Hartmut Penner (hp@de.ibm.com)
  *               Ulrich Weigand (weigand@de.ibm.com)
  *               Martin Schwidefsky (schwidefsky@de.ibm.com)

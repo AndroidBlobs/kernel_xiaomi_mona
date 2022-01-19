@@ -5,6 +5,7 @@
  * Re-map IO memory to kernel address space so that we can access it.
  *
  * (C) Copyright 1995 1996 Linus Torvalds
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  *
  * Hacked for ARM by Phil Blundell <philb@gnu.org>
  * Hacked to allow all architectures to build, and various cleanups
