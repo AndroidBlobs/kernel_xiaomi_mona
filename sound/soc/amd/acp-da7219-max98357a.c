@@ -2,6 +2,7 @@
  * Machine driver for AMD ACP Audio engine using DA7219 & MAX98357 codec
  *
  * Copyright 2017 Advanced Micro Devices, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Permission is hereby granted, free of charge, to any person obtaining a
  * copy of this software and associated documentation files (the "Software"),

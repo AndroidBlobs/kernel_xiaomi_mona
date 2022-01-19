@@ -5,6 +5,7 @@
  *   Mixer control part
  *
  *   Copyright (c) 2002 by Takashi Iwai <tiwai@suse.de>
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *
  *   Many codes borrowed from audio.c by
  *	    Alan Cox (alan@lxorguk.ukuu.org.uk)

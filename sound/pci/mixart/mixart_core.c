@@ -5,6 +5,7 @@
  * low level interface with interrupt handling and mail box implementation
  *
  * Copyright (c) 2003 by Digigram <alsa@digigram.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/interrupt.h>

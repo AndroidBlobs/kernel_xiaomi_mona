@@ -5,6 +5,7 @@
  * registration of device and proc
  *
  * Copyright (C) 1998,99 Takashi Iwai <tiwai@suse.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/init.h>

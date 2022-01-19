@@ -3,6 +3,7 @@
  *  skl-nhlt.c - Intel SKL Platform NHLT parsing
  *
  *  Copyright (C) 2015 Intel Corp
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Author: Sanjiv Kumar <sanjiv.kumar@intel.com>
  *  ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
  *

@@ -3,6 +3,7 @@
  * IMG parallel output controller driver
  *
  * Copyright (C) 2015 Imagination Technologies Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Damien Horsley <Damien.Horsley@imgtec.com>
  */

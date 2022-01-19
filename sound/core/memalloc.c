@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  *  Copyright (c) by Jaroslav Kysela <perex@perex.cz>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *                   Takashi Iwai <tiwai@suse.de>
  * 
  *  Generic memory allocators

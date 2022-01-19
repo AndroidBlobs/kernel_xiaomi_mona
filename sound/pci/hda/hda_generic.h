@@ -3,6 +3,7 @@
  * Generic BIOS auto-parser helper functions for HD-audio
  *
  * Copyright (c) 2012 Takashi Iwai <tiwai@suse.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __SOUND_HDA_GENERIC_H

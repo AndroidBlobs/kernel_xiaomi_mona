@@ -4,6 +4,7 @@
  * and RT5663 Codecs
  *
  * Copyright (C) 2017, Intel Corporation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Modified from:
  *   Intel Skylake I2S Machine driver

@@ -3,6 +3,7 @@
  * wm8997.c  --  WM8997 ALSA SoC Audio driver
  *
  * Copyright 2012 Wolfson Microelectronics plc
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Charles Keepax <ckeepax@opensource.wolfsonmicro.com>
  */

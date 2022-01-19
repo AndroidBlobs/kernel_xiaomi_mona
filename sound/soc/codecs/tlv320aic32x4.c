@@ -3,6 +3,7 @@
  * linux/sound/soc/codecs/tlv320aic32x4.c
  *
  * Copyright 2011 Vista Silicon S.L.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Javier Martin <javier.martin@vista-silicon.com>
  *

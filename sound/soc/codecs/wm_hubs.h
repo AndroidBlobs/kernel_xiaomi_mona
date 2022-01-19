@@ -3,6 +3,7 @@
  * wm_hubs.h  --  WM899x common code
  *
  * Copyright 2009 Wolfson Microelectronics plc
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Mark Brown <broonie@opensource.wolfsonmicro.com>
  */

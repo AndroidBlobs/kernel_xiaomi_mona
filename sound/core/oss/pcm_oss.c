@@ -2,6 +2,7 @@
 /*
  *  Digital Audio (PCM) abstract layer / OSS compatible
  *  Copyright (c) by Jaroslav Kysela <perex@perex.cz>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #if 0

@@ -3,6 +3,7 @@
  * wm8998.c -- ALSA SoC Audio driver for WM8998 codecs
  *
  * Copyright 2015 Cirrus Logic, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Richard Fitzgerald <rf@opensource.wolfsonmicro.com>
  */

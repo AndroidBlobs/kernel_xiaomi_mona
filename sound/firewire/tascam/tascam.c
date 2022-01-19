@@ -3,6 +3,7 @@
  * tascam.c - a part of driver for TASCAM FireWire series
  *
  * Copyright (c) 2015 Takashi Sakamoto
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "tascam.h"

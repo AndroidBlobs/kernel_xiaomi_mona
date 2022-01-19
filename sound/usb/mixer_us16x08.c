@@ -3,6 +3,7 @@
  *   Tascam US-16x08 ALSA driver
  *
  *   Copyright (c) 2016 by Detlef Urban (onkel@paraair.de)
+ *   Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/slab.h>

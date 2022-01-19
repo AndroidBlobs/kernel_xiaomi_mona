@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: (GPL-2.0 OR MIT)
 //
 // Copyright (c) 2018 BayLibre, SAS.
+// Copyright (C) 2021 XiaoMi, Inc.
 // Author: Jerome Brunet <jbrunet@baylibre.com>
 
 /* This driver implements the frontend capture DAI of AXG based SoCs */

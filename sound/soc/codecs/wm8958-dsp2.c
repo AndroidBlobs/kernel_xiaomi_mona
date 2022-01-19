@@ -3,6 +3,7 @@
  * wm8958-dsp2.c  --  WM8958 DSP2 support
  *
  * Copyright 2011 Wolfson Microelectronics plc
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Mark Brown <broonie@opensource.wolfsonmicro.com>
  */

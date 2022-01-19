@@ -1,6 +1,7 @@
 /*
  *  Mu-Law conversion Plug-In Interface
  *  Copyright (c) 1999 by Jaroslav Kysela <perex@perex.cz>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *                        Uros Bizjak <uros@kss-loka.si>
  *
  *  Based on reference implementation by Sun Microsystems, Inc.

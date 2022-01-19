@@ -4,6 +4,7 @@
     Common Linux HPI ioctl and module probe/remove functions
 
     Copyright (C) 1997-2014  AudioScience Inc. <support@audioscience.com>
+    Copyright (C) 2021 XiaoMi, Inc.
 
 
 *******************************************************************************/

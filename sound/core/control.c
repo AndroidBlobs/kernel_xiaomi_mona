@@ -2,6 +2,7 @@
 /*
  *  Routines for driver control interface
  *  Copyright (c) by Jaroslav Kysela <perex@perex.cz>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/threads.h>

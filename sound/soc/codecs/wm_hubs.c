@@ -3,6 +3,7 @@
  * wm_hubs.c  --  WM8993/4 common code
  *
  * Copyright 2009-12 Wolfson Microelectronics plc
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Mark Brown <broonie@opensource.wolfsonmicro.com>
  */

@@ -3,6 +3,7 @@
  *  bxt-sst.c - DSP library functions for BXT platform
  *
  *  Copyright (C) 2015-16 Intel Corp
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Author:Rafal Redzimski <rafal.f.redzimski@intel.com>
  *	   Jeeja KP <jeeja.kp@intel.com>
  */

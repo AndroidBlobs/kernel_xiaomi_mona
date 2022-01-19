@@ -3,6 +3,7 @@
  * digi00x.c - a part of driver for Digidesign Digi 002/003 family
  *
  * Copyright (c) 2014-2015 Takashi Sakamoto
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include "digi00x.h"

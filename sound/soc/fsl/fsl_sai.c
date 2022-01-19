@@ -3,6 +3,7 @@
 // Freescale ALSA SoC Digital Audio Interface (SAI) driver.
 //
 // Copyright 2012-2015 Freescale Semiconductor, Inc.
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/clk.h>
 #include <linux/delay.h>

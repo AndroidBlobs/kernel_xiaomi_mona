@@ -3,6 +3,7 @@
 // soc-util.c  --  ALSA SoC Audio Layer utility functions
 //
 // Copyright 2009 Wolfson Microelectronics PLC.
+// Copyright (C) 2021 XiaoMi, Inc.
 //
 // Author: Mark Brown <broonie@opensource.wolfsonmicro.com>
 //         Liam Girdwood <lrg@slimlogic.co.uk>

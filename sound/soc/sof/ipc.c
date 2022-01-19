@@ -4,6 +4,7 @@
 // redistributing this file, you may do so under either license.
 //
 // Copyright(c) 2018 Intel Corporation. All rights reserved.
+// Copyright (C) 2021 XiaoMi, Inc.
 //
 // Author: Liam Girdwood <liam.r.girdwood@linux.intel.com>
 //

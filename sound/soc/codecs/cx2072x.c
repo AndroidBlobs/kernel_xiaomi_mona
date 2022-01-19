@@ -3,6 +3,7 @@
 // ALSA SoC CX20721/CX20723 codec driver
 //
 // Copyright:	(C) 2017 Conexant Systems, Inc.
+// Copyright (C) 2021 XiaoMi, Inc.
 // Author:	Simon Ho, <Simon.ho@conexant.com>
 //
 // TODO: add support for TDM mode.

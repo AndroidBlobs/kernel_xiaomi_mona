@@ -3,6 +3,7 @@
  * Skylake SST DSP Support
  *
  * Copyright (C) 2014-15, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __SKL_SST_DSP_H__

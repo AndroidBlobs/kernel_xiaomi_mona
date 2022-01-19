@@ -3,6 +3,7 @@
  * fireworks_transaction.c - a part of driver for Fireworks based devices
  *
  * Copyright (c) 2013-2014 Takashi Sakamoto
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*
