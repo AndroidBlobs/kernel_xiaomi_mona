@@ -3,6 +3,7 @@
  * NCI based driver for Samsung S3FWRN5 NFC chip
  *
  * Copyright (C) 2015 Samsung Electrnoics
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Robert Baldyga <r.baldyga@samsung.com>
  */
 

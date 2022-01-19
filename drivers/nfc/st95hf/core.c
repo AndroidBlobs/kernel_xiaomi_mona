@@ -4,6 +4,7 @@
  * Driver for ST NFC Transceiver ST95HF
  * --------------------------------------------------------------------
  * Copyright (C) 2015 STMicroelectronics Pvt. Ltd. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/err.h>
