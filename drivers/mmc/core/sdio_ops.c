@@ -3,6 +3,7 @@
  *  linux/drivers/mmc/sdio_ops.c
  *
  *  Copyright 2006-2007 Pierre Ossman
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/scatterlist.h>

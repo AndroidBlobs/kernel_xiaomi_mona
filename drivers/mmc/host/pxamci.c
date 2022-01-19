@@ -3,6 +3,7 @@
  *  linux/drivers/mmc/host/pxa.c - PXA MMCI driver
  *
  *  Copyright (C) 2003 Russell King, All Rights Reserved.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This hardware is really sick:
  *   - No way to clear interrupts.

@@ -3,6 +3,7 @@
  * Secure Digital Host Controller Interface ACPI driver.
  *
  * Copyright (c) 2012, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/init.h>

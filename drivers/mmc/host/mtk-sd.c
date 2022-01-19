@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2014-2015 MediaTek Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Chaotian.Jing <chaotian.jing@mediatek.com>
  */
 

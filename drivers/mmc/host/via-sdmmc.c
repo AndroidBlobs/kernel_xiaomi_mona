@@ -2,6 +2,7 @@
 /*
  *  drivers/mmc/host/via-sdmmc.c - VIA SD/MMC Card Reader driver
  *  Copyright (c) 2008, VIA Technologies Inc. All Rights Reserved.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/pci.h>

@@ -2,6 +2,7 @@
 /*  linux/drivers/mmc/host/sdhci-pci.c - SDHCI on PCI bus interface
  *
  *  Copyright (C) 2005-2008 Pierre Ossman, All Rights Reserved.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  * Thanks to the following companies for their support:
  *
