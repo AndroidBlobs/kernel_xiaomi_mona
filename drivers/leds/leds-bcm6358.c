@@ -3,6 +3,7 @@
  * Driver for BCM6358 memory-mapped LEDs, based on leds-syscon.c
  *
  * Copyright 2015 Álvaro Fernández Rojas <noltari@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/delay.h>
 #include <linux/io.h>
