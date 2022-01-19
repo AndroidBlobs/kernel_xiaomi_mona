@@ -5,6 +5,7 @@
  * This file provides the user-space API for algorithms.
  *
  * Copyright (c) 2010 Herbert Xu <herbert@gondor.apana.org.au>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/atomic.h>

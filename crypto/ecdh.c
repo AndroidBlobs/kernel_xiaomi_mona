@@ -2,6 +2,7 @@
 /* ECDH key-agreement protocol
  *
  * Copyright (c) 2016, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: Salvator Benedetto <salvatore.benedetto@intel.com>
  */
 

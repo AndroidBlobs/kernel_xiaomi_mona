@@ -5,6 +5,7 @@
  * This file provides the user-space API for symmetric key ciphers.
  *
  * Copyright (c) 2010 Herbert Xu <herbert@gondor.apana.org.au>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * The following concept of the memory management is used:
  *
