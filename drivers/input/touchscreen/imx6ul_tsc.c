@@ -3,6 +3,7 @@
 // Freescale i.MX6UL touchscreen controller driver
 //
 // Copyright (C) 2015 Freescale Semiconductor, Inc.
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/errno.h>
 #include <linux/kernel.h>

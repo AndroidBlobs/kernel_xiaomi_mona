@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2016-2019, STMicroelectronics Limited.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors: AMG(Analog Mems Group)
  *
  *		marco.cali@st.com

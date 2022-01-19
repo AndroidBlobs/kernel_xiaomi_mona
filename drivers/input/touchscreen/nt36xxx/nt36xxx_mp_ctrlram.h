@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-only */
 /*
  * Copyright (C) 2010 - 2018 Novatek, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * $Revision: 46179 $
  * $Date: 2019-06-14 13:47:17 +0800 (Fri, 14 Jun 2019) $
