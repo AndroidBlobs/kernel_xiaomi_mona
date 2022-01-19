@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (c) 2018 Fuzhou Rockchip Electronics Co., Ltd
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/clk-provider.h>

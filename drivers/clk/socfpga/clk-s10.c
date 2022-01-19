@@ -1,6 +1,7 @@
 // SPDX-License-Identifier:	GPL-2.0
 /*
  * Copyright (C) 2017, Intel Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/slab.h>
 #include <linux/clk-provider.h>

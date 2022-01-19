@@ -3,6 +3,7 @@
 // clk-s2mps11.c - Clock driver for S2MPS11.
 //
 // Copyright (C) 2013,2014 Samsung Electornics
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <linux/module.h>
 #include <linux/err.h>

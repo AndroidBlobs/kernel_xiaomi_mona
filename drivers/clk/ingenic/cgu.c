@@ -3,6 +3,7 @@
  * Ingenic SoC CGU driver
  *
  * Copyright (c) 2013-2015 Imagination Technologies
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Paul Burton <paul.burton@mips.com>
  */
 

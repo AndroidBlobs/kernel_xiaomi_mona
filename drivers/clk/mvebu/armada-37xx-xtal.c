@@ -3,6 +3,7 @@
  * Marvell Armada 37xx SoC xtal clocks
  *
  * Copyright (C) 2016 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Gregory CLEMENT <gregory.clement@free-electrons.com>
  *

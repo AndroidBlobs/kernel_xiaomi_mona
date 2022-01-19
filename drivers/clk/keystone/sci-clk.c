@@ -2,6 +2,7 @@
  * SCI Clock driver for keystone based devices
  *
  * Copyright (C) 2015-2016 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2021 XiaoMi, Inc.
  *	Tero Kristo <t-kristo@ti.com>
  *
  * This program is free software; you can redistribute it and/or modify

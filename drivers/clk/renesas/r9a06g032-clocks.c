@@ -3,6 +3,7 @@
  * R9A09G032 clock driver
  *
  * Copyright (C) 2018 Renesas Electronics Europe Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Michel Pollet <michel.pollet@bp.renesas.com>, <buserror@gmail.com>
  */
