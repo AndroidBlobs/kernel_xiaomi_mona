@@ -3,6 +3,7 @@
  *  SMB2 version specific operations
  *
  *  Copyright (c) 2012, Jeff Layton <jlayton@redhat.com>
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/pagemap.h>

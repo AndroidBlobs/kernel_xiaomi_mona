@@ -5,6 +5,7 @@
  * Written by Stephen C. Tweedie <sct@redhat.com>, 1998
  *
  * Copyright 1998 Red Hat corp --- All Rights Reserved
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Generic filesystem transaction handling code; part of the ext2fs
  * journaling system.

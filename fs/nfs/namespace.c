@@ -3,6 +3,7 @@
  * linux/fs/nfs/namespace.c
  *
  * Copyright (C) 2005 Trond Myklebust <Trond.Myklebust@netapp.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * - Modified by David Howells <dhowells@redhat.com>
  *
  * NFS namespace

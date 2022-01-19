@@ -2,6 +2,7 @@
 /* AFS vlserver probing
  *
  * Copyright (C) 2018 Red Hat, Inc. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by David Howells (dhowells@redhat.com)
  */
 

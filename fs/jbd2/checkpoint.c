@@ -5,6 +5,7 @@
  * Written by Stephen C. Tweedie <sct@redhat.com>, 1999
  *
  * Copyright 1999 Red Hat Software --- All Rights Reserved
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Checkpoint routines for the generic filesystem journaling code.
  * Part of the ext2fs journaling system.

@@ -3,6 +3,7 @@
  * linux/fs/reiserfs/xattr.c
  *
  * Copyright (c) 2002 by Jeff Mahoney, <jeffm@suse.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  */
 

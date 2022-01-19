@@ -1,5 +1,6 @@
 /*
  * Copyright 2000 by Hans Reiser, licensing governed by reiserfs/README
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/time.h>

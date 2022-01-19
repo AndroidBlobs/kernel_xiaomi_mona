@@ -1,6 +1,7 @@
 /* AFS superblock handling
  *
  * Copyright (c) 2002, 2007, 2018 Red Hat, Inc. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This software may be freely redistributed under the terms of the
  * GNU General Public License.

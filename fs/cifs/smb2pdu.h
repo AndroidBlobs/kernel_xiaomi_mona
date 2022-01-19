@@ -2,6 +2,7 @@
  *   fs/cifs/smb2pdu.h
  *
  *   Copyright (c) International Business Machines  Corp., 2009, 2013
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *                 Etersoft, 2012
  *   Author(s): Steve French (sfrench@us.ibm.com)
  *              Pavel Shilovsky (pshilovsky@samba.org) 2012

@@ -3,6 +3,7 @@
  *   fs/cifs/cifs_unicode.c
  *
  *   Copyright (c) International Business Machines  Corp., 2000,2009
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *   Modified by Steve French (sfrench@us.ibm.com)
  */
 #include <linux/fs.h>

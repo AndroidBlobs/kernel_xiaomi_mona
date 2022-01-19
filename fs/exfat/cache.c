@@ -8,6 +8,7 @@
  *	of inode number.
  *  May 1999. AV. Fixed the bogosity with FAT32 (read "FAT28"). Fscking lusers.
  *  Copyright (C) 2012-2013 Samsung Electronics Co., Ltd.
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/slab.h>

@@ -2,6 +2,7 @@
  *   fs/cifs/connect.c
  *
  *   Copyright (C) International Business Machines  Corp., 2002,2011
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *   Author(s): Steve French (sfrench@us.ibm.com)
  *
  *   This library is free software; you can redistribute it and/or modify

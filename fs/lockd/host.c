@@ -7,6 +7,7 @@
  * do so is to reduce code bloat.
  *
  * Copyright (C) 1996, Olaf Kirch <okir@monad.swb.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

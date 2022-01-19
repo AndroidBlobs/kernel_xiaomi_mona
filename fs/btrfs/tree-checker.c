@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 /*
  * Copyright (C) Qu Wenruo 2017.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

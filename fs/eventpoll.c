@@ -2,6 +2,7 @@
 /*
  *  fs/eventpoll.c (Efficient event retrieval implementation)
  *  Copyright (C) 2001,...,2009	 Davide Libenzi
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  Davide Libenzi <davidel@xmailserver.org>
  */

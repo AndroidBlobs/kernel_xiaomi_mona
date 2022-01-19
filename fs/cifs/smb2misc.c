@@ -2,6 +2,7 @@
  *   fs/cifs/smb2misc.c
  *
  *   Copyright (C) International Business Machines  Corp., 2002,2011
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *                 Etersoft, 2012
  *   Author(s): Steve French (sfrench@us.ibm.com)
  *              Pavel Shilovsky (pshilovsky@samba.org) 2012

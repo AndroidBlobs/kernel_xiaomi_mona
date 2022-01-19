@@ -3,6 +3,7 @@
  *  linux/fs/nfs/dir.c
  *
  *  Copyright (C) 1992  Rick Sladkey
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  nfs directory handling functions
  *

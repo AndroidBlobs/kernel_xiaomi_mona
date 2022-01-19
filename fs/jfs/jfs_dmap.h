@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
 /*
  *   Copyright (C) International Business Machines Corp., 2000-2002
+ *   Copyright (C) 2021 XiaoMi, Inc.
  */
 #ifndef	_H_JFS_DMAP
 #define _H_JFS_DMAP

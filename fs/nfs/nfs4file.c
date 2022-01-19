@@ -3,6 +3,7 @@
  *  linux/fs/nfs/file.c
  *
  *  Copyright (C) 1992  Rick Sladkey
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/fs.h>
 #include <linux/file.h>

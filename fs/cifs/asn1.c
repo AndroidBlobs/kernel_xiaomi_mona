@@ -4,6 +4,7 @@
  * turn derived from the gxsnmp package by Gregory McLean & Jochen Friedrich
  *
  * Copyright (c) 2000 RP Internet (www.rpi.net.au).
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

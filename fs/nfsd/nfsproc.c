@@ -3,6 +3,7 @@
  * Process version 2 NFS requests.
  *
  * Copyright (C) 1995-1997 Olaf Kirch <okir@monad.swb.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/namei.h>

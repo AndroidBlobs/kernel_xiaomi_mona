@@ -3,6 +3,7 @@
  *  linux/fs/nfs/inode.c
  *
  *  Copyright (C) 1992  Rick Sladkey
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  nfs inode and superblock handling functions
  *

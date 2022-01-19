@@ -2,6 +2,7 @@
  * JFFS2 -- Journalling Flash File System, Version 2.
  *
  * Copyright © 2001-2007 Red Hat, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Created by David Woodhouse <dwmw2@infradead.org>
  *

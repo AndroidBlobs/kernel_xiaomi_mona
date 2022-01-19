@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: LGPL-2.1
 /*
  * Copyright (c) 2012 Taobao.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by Tao Ma <boyu.mt@taobao.com>
  */
 

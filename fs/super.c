@@ -3,6 +3,7 @@
  *  linux/fs/super.c
  *
  *  Copyright (C) 1991, 1992  Linus Torvalds
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  super.c contains code to handle: - mount structures
  *                                   - super-block tables

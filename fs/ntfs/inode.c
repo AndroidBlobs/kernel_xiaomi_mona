@@ -3,6 +3,7 @@
  * inode.c - NTFS kernel inode handling.
  *
  * Copyright (c) 2001-2014 Anton Altaparmakov and Tuxera Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/buffer_head.h>

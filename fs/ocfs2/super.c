@@ -7,6 +7,7 @@
  * load/unload driver, mount/dismount volumes
  *
  * Copyright (C) 2002, 2004 Oracle.  All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

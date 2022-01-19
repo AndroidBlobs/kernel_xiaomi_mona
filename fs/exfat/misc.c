@@ -4,6 +4,7 @@
  *  22/11/2000 - Fixed fat_date_unix2dos for dates earlier than 01/01/1980
  *		 and date_dos2unix for date==0 by Igor Zhbanov(bsg@uniyar.ac.ru)
  * Copyright (C) 2012-2013 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/time.h>

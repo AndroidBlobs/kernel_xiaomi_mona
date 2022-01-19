@@ -4,6 +4,7 @@
  *   vfs operations that deal with files
  *
  *   Copyright (C) International Business Machines  Corp., 2002,2010
+ *   Copyright (C) 2021 XiaoMi, Inc.
  *   Author(s): Steve French (sfrench@us.ibm.com)
  *              Jeremy Allison (jra@samba.org)
  *
