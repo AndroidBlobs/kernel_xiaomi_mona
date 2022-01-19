@@ -3,6 +3,7 @@
  * sky81452-backlight.c	SKY81452 backlight driver
  *
  * Copyright 2014 Skyworks Solutions Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author : Gyungoh Yoo <jack.yoo@skyworksinc.com>
  */
 

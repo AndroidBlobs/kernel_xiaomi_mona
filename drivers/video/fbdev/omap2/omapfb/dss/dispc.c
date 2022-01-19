@@ -3,6 +3,7 @@
  * linux/drivers/video/omap2/dss/dispc.c
  *
  * Copyright (C) 2009 Nokia Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Tomi Valkeinen <tomi.valkeinen@nokia.com>
  *
  * Some code and ideas taken from drivers/video/omap/ driver

@@ -3,6 +3,7 @@
  * linux/drivers/video/omap2/dss/venc.c
  *
  * Copyright (C) 2009 Nokia Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Tomi Valkeinen <tomi.valkeinen@nokia.com>
  *
  * VENC settings from TI's DSS driver

@@ -2,6 +2,7 @@
  *  linux/drivers/video/console/fbcon.h -- Low level frame buffer based console driver
  *
  *	Copyright (C) 1997 Geert Uytterhoeven
+ *	Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This file is subject to the terms and conditions of the GNU General Public
  *  License.  See the file COPYING in the main directory of this archive

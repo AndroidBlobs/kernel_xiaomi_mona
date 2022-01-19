@@ -2,6 +2,7 @@
  *  Driver for AT91 LCD Controller
  *
  *  Copyright (C) 2007 Atmel Corporation
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is subject to the terms and conditions of the GNU General Public
  * License.  See the file COPYING in the main directory of this archive for

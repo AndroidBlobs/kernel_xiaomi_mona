@@ -2,6 +2,7 @@
  * linux/drivers/video/vga16.c -- VGA 16-color framebuffer driver
  * 
  * Copyright 1999 Ben Pfaff <pfaffben@debian.org> and Petr Vandrovec <VANDROVE@vc.cvut.cz>
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Based on VGA info at http://www.goodnet.com/~tinara/FreeVGA/home.htm
  * Based on VESA framebuffer (c) 1998 Gerd Knorr <kraxel@goldbach.in-berlin.de>
  *

@@ -4,6 +4,7 @@
  *  Originally from the 'accel_*' routines in drivers/video/console/fbcon.c
  *
  *      Copyright (C) 2004 Antonino Daplas <adaplas @pol.net>
+ *      Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This file is subject to the terms and conditions of the GNU General Public
  *  License.  See the file COPYING in the main directory of this archive for

@@ -8,6 +8,7 @@
  *  This file is based on the old console.c, vga.c and vesa_blank.c drivers.
  *
  *	Copyright (C) 1991, 1992  Linus Torvalds
+ *	Copyright (C) 2021 XiaoMi, Inc.
  *			    1995  Jay Estabrook
  *
  *	User definable mapping table and font loading by Eugene G. Crosser,

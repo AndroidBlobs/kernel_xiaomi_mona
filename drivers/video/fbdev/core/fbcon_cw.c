@@ -2,6 +2,7 @@
  *  linux/drivers/video/console/fbcon_ud.c -- Software Rotation - 90 degrees
  *
  *      Copyright (C) 2005 Antonino Daplas <adaplas @pol.net>
+ *      Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This file is subject to the terms and conditions of the GNU General Public
  *  License.  See the file COPYING in the main directory of this archive for

@@ -3,6 +3,7 @@
  * fbsysfs.c - framebuffer device class and attributes
  *
  * Copyright (c) 2004 James Simmons <jsimmons@infradead.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*
