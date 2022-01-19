@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2015, 2016 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/uaccess.h>

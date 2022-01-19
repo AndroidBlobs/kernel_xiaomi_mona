@@ -3,6 +3,7 @@
  * Intel MIC Platform Software Stack (MPSS)
  *
  * Copyright(c) 2013 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Intel MIC User Space Tools.
  */

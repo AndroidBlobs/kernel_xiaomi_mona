@@ -1,6 +1,7 @@
 #! /usr/bin/env python3
 # SPDX-License-Identifier: GPL-2.0-only
 # Copyright (c) 2011-2017, 2018 The Linux Foundation. All rights reserved.
+# Copyright (C) 2021 XiaoMi, Inc.
 
 # -*- coding: utf-8 -*-
 

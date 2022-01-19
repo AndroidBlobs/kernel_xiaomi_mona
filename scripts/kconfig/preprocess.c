@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0
 //
 // Copyright (C) 2018 Masahiro Yamada <yamada.masahiro@socionext.com>
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <ctype.h>
 #include <stdarg.h>
