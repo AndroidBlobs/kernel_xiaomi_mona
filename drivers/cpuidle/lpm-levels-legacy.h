@@ -2,6 +2,7 @@
 
 /*
  * Copyright (c) 2014-2021 The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <soc/qcom/pm-legacy.h>
