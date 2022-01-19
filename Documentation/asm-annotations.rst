@@ -2,6 +2,7 @@ Assembler Annotations
 =====================
 
 Copyright (c) 2017-2019 Jiri Slaby
+Copyright (C) 2021 XiaoMi, Inc.
 
 This document describes the new macros for annotation of data and code in
 assembly. In particular, it contains information about ``SYM_FUNC_START``,
