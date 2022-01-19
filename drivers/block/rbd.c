@@ -6,6 +6,7 @@
    based on drivers/block/osdblk.c:
 
    Copyright 2009 Red Hat, Inc.
+   Copyright (C) 2021 XiaoMi, Inc.
 
    This program is free software; you can redistribute it and/or modify
    it under the terms of the GNU General Public License as published by
