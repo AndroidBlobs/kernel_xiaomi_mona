@@ -3,6 +3,7 @@
  * gpio-hammer - example swiss army knife to shake GPIO lines on a system
  *
  * Copyright (C) 2016 Linus Walleij
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Usage:
  *	gpio-hammer -n <device-name> -o <offset1> -o <offset2>

@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (C) 2015-2017 Josh Poimboeuf <jpoimboe@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <string.h>

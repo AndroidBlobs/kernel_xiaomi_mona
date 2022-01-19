@@ -6,6 +6,7 @@
  * below. This uses the raw io_uring interface.
  *
  * Copyright (C) 2018-2019 Jens Axboe
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <stdio.h>
 #include <errno.h>

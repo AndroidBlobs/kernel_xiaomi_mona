@@ -2,6 +2,7 @@
 /*
  * fsgsbase.c, an fsgsbase test
  * Copyright (c) 2014-2016 Andy Lutomirski
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define _GNU_SOURCE

@@ -3,6 +3,7 @@
  * tools/testing/selftests/kvm/include/x86_64/processor.h
  *
  * Copyright (C) 2018, Google LLC.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef SELFTEST_KVM_PROCESSOR_H

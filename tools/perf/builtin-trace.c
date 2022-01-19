@@ -8,6 +8,7 @@
  * event may be specified using --event.
  *
  * Copyright (C) 2012, 2013, 2014, 2015 Red Hat Inc, Arnaldo Carvalho de Melo <acme@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Initially based on the 'trace' prototype by Thomas Gleixner:
  *

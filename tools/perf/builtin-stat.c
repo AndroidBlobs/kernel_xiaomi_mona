@@ -29,6 +29,7 @@
 
  *
  * Copyright (C) 2008-2011, Red Hat Inc, Ingo Molnar <mingo@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Improvements and fixes by:
  *

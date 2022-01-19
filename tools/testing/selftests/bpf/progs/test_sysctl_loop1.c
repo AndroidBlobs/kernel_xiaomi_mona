@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 // Copyright (c) 2019 Facebook
+// Copyright (C) 2021 XiaoMi, Inc.
 
 #include <stdint.h>
 #include <string.h>

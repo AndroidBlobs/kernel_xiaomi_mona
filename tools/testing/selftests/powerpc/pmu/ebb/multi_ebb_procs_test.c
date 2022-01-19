@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright 2014, Michael Ellerman, IBM Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <stdbool.h>

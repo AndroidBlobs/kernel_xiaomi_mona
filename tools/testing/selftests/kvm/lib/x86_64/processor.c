@@ -3,6 +3,7 @@
  * tools/testing/selftests/kvm/lib/x86_64/processor.c
  *
  * Copyright (C) 2018, Google LLC.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define _GNU_SOURCE /* for program_invocation_name */

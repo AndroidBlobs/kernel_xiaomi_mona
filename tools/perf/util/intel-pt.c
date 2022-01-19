@@ -2,6 +2,7 @@
 /*
  * intel_pt.c: Intel Processor Trace support
  * Copyright (c) 2013-2015, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <inttypes.h>

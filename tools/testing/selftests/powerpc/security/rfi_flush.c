@@ -2,6 +2,7 @@
 
 /*
  * Copyright 2018 IBM Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define __SANE_USERSPACE_TYPES__

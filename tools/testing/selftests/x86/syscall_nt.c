@@ -2,6 +2,7 @@
 /*
  * syscall_nt.c - checks syscalls with NT set
  * Copyright (c) 2014-2015 Andrew Lutomirski
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Some obscure user-space code requires the ability to make system calls
  * with FLAGS.NT set.  Make sure it works.

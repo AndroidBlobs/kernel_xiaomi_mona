@@ -2,6 +2,7 @@
 # SPDX-License-Identifier: GPL-2.0
 #
 # Copyright (c) 2019 David Ahern <dsahern@gmail.com>. All rights reserved.
+# Copyright (C) 2021 XiaoMi, Inc.
 #
 # IPv4 and IPv6 functional tests focusing on VRF and routing lookups
 # for various permutations:

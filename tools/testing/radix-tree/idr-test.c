@@ -2,6 +2,7 @@
 /*
  * idr-test.c: Test the IDR API
  * Copyright (c) 2016 Matthew Wilcox <willy@infradead.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/bitmap.h>
 #include <linux/idr.h>

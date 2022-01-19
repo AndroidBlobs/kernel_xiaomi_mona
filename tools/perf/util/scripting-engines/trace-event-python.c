@@ -2,6 +2,7 @@
  * trace-event-python.  Feed trace events to an embedded Python interpreter.
  *
  * Copyright (C) 2010 Tom Zanussi <tzanussi@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  *  This program is free software; you can redistribute it and/or modify
  *  it under the terms of the GNU General Public License as published by

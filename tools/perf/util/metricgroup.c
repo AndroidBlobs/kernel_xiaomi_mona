@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2017, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /* Manage metrics and groups of metrics from JSON files */

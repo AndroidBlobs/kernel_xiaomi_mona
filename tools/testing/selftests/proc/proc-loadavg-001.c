@@ -1,5 +1,6 @@
 /*
  * Copyright © 2018 Alexey Dobriyan <adobriyan@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Permission to use, copy, modify, and distribute this software for any
  * purpose with or without fee is hereby granted, provided that the above

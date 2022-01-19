@@ -38,6 +38,7 @@ from decimal import *
 
 __author__ = "Srinivas Pandruvada"
 __copyright__ = " Copyright (c) 2017, Intel Corporation. "
+__copyright__ = " Copyright (C) 2021 XiaoMi, Inc.
 __license__ = "GPL version 2"
 
 

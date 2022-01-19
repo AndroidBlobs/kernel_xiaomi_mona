@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2011, Red Hat Inc, Arnaldo Carvalho de Melo <acme@redhat.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Parts came from builtin-{top,stat,record}.c, see those files for further
  * copyright notes.
