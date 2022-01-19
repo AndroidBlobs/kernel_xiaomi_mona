@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0 OR MIT
 /*
  * Copyright 2014 Carlo Caione <carlo@caione.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <dt-bindings/clock/meson8b-clkc.h>

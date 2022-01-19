@@ -3,6 +3,7 @@
  * SAMSUNG EXYNOS5410 SoC device tree source
  *
  * Copyright (c) 2013 Samsung Electronics Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *		http://www.samsung.com
  *
  * SAMSUNG EXYNOS5410 SoC device nodes are listed in this file.

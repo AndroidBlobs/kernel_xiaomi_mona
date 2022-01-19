@@ -3,6 +3,7 @@
  * sama5d2.dtsi - Device Tree Include file for SAMA5D2 family SoC
  *
  *  Copyright (C) 2015 Atmel,
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *                2015 Ludovic Desroches <ludovic.desroches@atmel.com>
  */
 

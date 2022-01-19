@@ -4,6 +4,7 @@
  * BCM53016, BCM53017, BCM53018, BCM4707, BCM4708 and BCM4709 SoCs
  *
  * Copyright 2013-2014 Hauke Mehrtens <hauke@hauke-m.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Licensed under the GNU/GPL. See COPYING for details.
  */

@@ -3,6 +3,7 @@
  * at91sam9rl.dtsi - Device Tree Include file for AT91SAM9RL family SoC
  *
  *  Copyright (C) 2014 Microchip
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Alexandre Belloni <alexandre.belloni@free-electrons.com>
  */
 

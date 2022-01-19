@@ -3,6 +3,7 @@
  * Exynos5410 SoC pin-mux and pin-config device tree source
  *
  * Copyright (c) 2013 Hardkernel Co., Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *              http://www.hardkernel.com
  */
 

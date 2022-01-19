@@ -3,6 +3,7 @@
  * Samsung's S5PV210 SoC device tree source
  *
  * Copyright (c) 2013-2014 Samsung Electronics, Co. Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Mateusz Krawczuk <m.krawczuk@partner.samsung.com>
  * Tomasz Figa <t.figa@samsung.com>

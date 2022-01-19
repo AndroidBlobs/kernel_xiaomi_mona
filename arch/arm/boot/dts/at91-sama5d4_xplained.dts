@@ -3,6 +3,7 @@
  * at91-sama5d4_xplained.dts - Device Tree file for SAMA5D4 Xplained board
  *
  *  Copyright (C) 2015 Atmel,
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *                2015 Josh Wu <josh.wu@atmel.com>
  */
 /dts-v1/;
