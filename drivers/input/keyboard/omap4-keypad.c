@@ -3,6 +3,7 @@
  * OMAP4 Keypad Driver
  *
  * Copyright (C) 2010 Texas Instruments
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Abraham Arce <x0066660@ti.com>
  * Initial Code: Syed Rafiuddin <rafiuddin.syed@ti.com>

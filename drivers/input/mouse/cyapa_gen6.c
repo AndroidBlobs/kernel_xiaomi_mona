@@ -4,6 +4,7 @@
  * Author: Dudley Du <dudl@cypress.com>
  *
  * Copyright (C) 2015 Cypress Semiconductor, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is subject to the terms and conditions of the GNU General Public
  * License.  See the file COPYING in the main directory of this archive for

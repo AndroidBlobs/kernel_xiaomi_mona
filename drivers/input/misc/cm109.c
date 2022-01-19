@@ -3,6 +3,7 @@
  * Driver for the VoIP USB phones with CM109 chipsets.
  *
  * Copyright (C) 2007 - 2008 Alfred E. Heggestad <aeh@db.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

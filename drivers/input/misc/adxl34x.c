@@ -5,6 +5,7 @@
  * Enter bugs at http://blackfin.uclinux.org/
  *
  * Copyright (C) 2009 Michael Hennerich, Analog Devices Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/device.h>

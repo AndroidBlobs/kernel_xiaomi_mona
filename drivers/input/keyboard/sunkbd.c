@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  *  Copyright (c) 1999-2001 Vojtech Pavlik
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 /*

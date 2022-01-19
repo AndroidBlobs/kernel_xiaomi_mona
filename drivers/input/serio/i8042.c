@@ -3,6 +3,7 @@
  *  i8042 keyboard and mouse controller driver for Linux
  *
  *  Copyright (c) 1999-2004 Vojtech Pavlik
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 

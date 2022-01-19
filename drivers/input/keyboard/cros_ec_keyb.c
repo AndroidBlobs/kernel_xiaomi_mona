@@ -2,6 +2,7 @@
 // ChromeOS EC keyboard driver
 //
 // Copyright (C) 2012 Google, Inc.
+// Copyright (C) 2021 XiaoMi, Inc.
 //
 // This driver uses the ChromeOS EC byte-level message-based protocol for
 // communicating the keyboard state (which keys are pressed) from a keyboard EC
