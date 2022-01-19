@@ -3,6 +3,7 @@
  *            (used by different CAN protocol modules)
  *
  * Copyright (c) 2002-2017 Volkswagen Group Electronic Research
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

@@ -2,6 +2,7 @@
 /* RxRPC key management
  *
  * Copyright (C) 2007 Red Hat, Inc. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by David Howells (dhowells@redhat.com)
  *
  * RxRPC keys should have a description of describing their purpose:

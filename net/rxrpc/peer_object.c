@@ -2,6 +2,7 @@
 /* RxRPC remote transport endpoint record management
  *
  * Copyright (C) 2007, 2016 Red Hat, Inc. All Rights Reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by David Howells (dhowells@redhat.com)
  */
 

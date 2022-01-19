@@ -3,6 +3,7 @@
  *  IUCV protocol stack for Linux on zSeries
  *
  *  Copyright IBM Corp. 2006, 2009
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  Author(s):	Jennifer Hunt <jenhunt@us.ibm.com>
  *		Hendrik Brueckner <brueckner@linux.vnet.ibm.com>

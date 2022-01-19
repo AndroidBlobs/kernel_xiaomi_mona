@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0
 /* Copyright (c) 2017 - 2018 Covalent IO, Inc. http://covalent.io */
+/* Copyright (C) 2021 XiaoMi, Inc. */
 
 #include <linux/skmsg.h>
 #include <linux/skbuff.h>

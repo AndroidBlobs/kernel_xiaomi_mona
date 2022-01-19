@@ -4,6 +4,7 @@
  * AF_XDP sockets allows a channel between XDP programs and userspace
  * applications.
  * Copyright(c) 2018 Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author(s): Björn Töpel <bjorn.topel@intel.com>
  *	      Magnus Karlsson <magnus.karlsson@intel.com>

@@ -6,6 +6,7 @@
  *	Porttrigger kernel side implementation.
  *
  * (C) Copyright 2011, Ubicom, Inc.
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is part of the Ubicom32 Linux Kernel Port.
  *

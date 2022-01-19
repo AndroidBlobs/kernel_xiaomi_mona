@@ -3,6 +3,7 @@
  * proc.c - procfs support for Protocol family CAN core module
  *
  * Copyright (c) 2002-2007 Volkswagen Group Electronic Research
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

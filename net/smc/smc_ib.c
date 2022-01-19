@@ -8,6 +8,7 @@
  *  Determine device and port characteristics for these IB devices.
  *
  *  Copyright IBM Corp. 2016
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *
  *  Author(s):  Ursula Braun <ubraun@linux.vnet.ibm.com>
  */

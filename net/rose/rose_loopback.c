@@ -2,6 +2,7 @@
 /*
  *
  * Copyright (C) Jonathan Naylor G4KLX (g4klx@g4klx.demon.co.uk)
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/types.h>
 #include <linux/slab.h>

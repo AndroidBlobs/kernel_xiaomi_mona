@@ -3,6 +3,7 @@
  *  Syncookies implementation for the Linux kernel
  *
  *  Copyright (C) 1997 Andi Kleen
+ *  Copyright (C) 2021 XiaoMi, Inc.
  *  Based on ideas by D.J.Bernstein and Eric Schenk.
  */
 

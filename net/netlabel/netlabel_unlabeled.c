@@ -11,6 +11,7 @@
 
 /*
  * (c) Copyright Hewlett-Packard Development Company, L.P., 2006 - 2008
+ * (c) Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

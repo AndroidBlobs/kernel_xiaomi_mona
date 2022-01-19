@@ -2,6 +2,7 @@
 /* net/sched/act_ctinfo.c  netfilter ctinfo connmark actions
  *
  * Copyright (c) 2019 Kevin Darbyshire-Bryant <ldir@darbyshire-bryant.me.uk>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

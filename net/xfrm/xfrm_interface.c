@@ -3,6 +3,7 @@
  *	XFRM virtual interface
  *
  *	Copyright (C) 2018 secunet Security Networks AG
+ *	Copyright (C) 2021 XiaoMi, Inc.
  *
  *	Author:
  *	Steffen Klassert <steffen.klassert@secunet.com>

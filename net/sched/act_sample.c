@@ -2,6 +2,7 @@
 /*
  * net/sched/act_sample.c - Packet sampling tc action
  * Copyright (c) 2017 Yotam Gigi <yotamg@mellanox.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

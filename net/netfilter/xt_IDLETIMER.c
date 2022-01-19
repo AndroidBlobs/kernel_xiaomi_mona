@@ -6,6 +6,7 @@
  * After timer expires a kevent will be sent.
  *
  * Copyright (C) 2004, 2010 Nokia Corporation
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Written by Timo Teras <ext-timo.teras@nokia.com>
  *

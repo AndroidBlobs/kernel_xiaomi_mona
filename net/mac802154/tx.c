@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright 2007-2012 Siemens AG
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Written by:
  * Dmitry Eremin-Solenikov <dbaryshkov@gmail.com>

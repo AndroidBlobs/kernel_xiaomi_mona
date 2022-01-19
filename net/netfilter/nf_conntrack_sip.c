@@ -2,6 +2,7 @@
 /* SIP extension for IP connection tracking.
  *
  * Copyright (c) 2015,2017,2018 The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * (C) 2005 by Christian Hentschel <chentschel@arnet.com.ar>
  * based on RR's ip_conntrack_ftp.c and other modules.
  * (C) 2007 United Security Providers

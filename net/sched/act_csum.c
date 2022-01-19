@@ -3,6 +3,7 @@
  * Checksum updating actions
  *
  * Copyright (c) 2010 Gregoire Baron <baronchon@n7mm.org>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/types.h>

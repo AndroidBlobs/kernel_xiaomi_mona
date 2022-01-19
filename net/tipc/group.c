@@ -2,6 +2,7 @@
  * net/tipc/group.c: TIPC group messaging code
  *
  * Copyright (c) 2017, Ericsson AB
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  *
  * Redistribution and use in source and binary forms, with or without

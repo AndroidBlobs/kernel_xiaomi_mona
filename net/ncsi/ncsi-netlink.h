@@ -1,6 +1,7 @@
 /* SPDX-License-Identifier: GPL-2.0-or-later */
 /*
  * Copyright Samuel Mendoza-Jonas, IBM Corporation 2018.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __NCSI_NETLINK_H__

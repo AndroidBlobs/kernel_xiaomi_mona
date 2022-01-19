@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /*
  * Copyright (c) 2014 Jiri Pirko <jiri@resnulli.us>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/module.h>

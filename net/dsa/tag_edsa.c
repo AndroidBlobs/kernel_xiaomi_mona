@@ -2,6 +2,7 @@
 /*
  * net/dsa/tag_edsa.c - Ethertype DSA tagging
  * Copyright (c) 2008-2009 Marvell Semiconductor
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/etherdevice.h>

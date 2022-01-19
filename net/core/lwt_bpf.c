@@ -1,5 +1,6 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /* Copyright (c) 2016 Thomas Graf <tgraf@tgraf.ch>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/kernel.h>

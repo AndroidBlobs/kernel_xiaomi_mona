@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-or-later
 /* SCTP kernel implementation
  * (C) Copyright 2007 Hewlett-Packard Development Company, L.P.
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is part of the SCTP kernel implementation
  *

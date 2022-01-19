@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2008, 2009 open80211s Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author:     Luis Carlos Cobo <luisca@cozybit.com>
  */
 

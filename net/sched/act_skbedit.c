@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2008, Intel Corporation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Alexander Duyck <alexander.h.duyck@intel.com>
  */

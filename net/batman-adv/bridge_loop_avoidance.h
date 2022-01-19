@@ -1,5 +1,6 @@
 /* SPDX-License-Identifier: GPL-2.0 */
 /* Copyright (C) 2011-2019  B.A.T.M.A.N. contributors:
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Simon Wunderlich
  */
