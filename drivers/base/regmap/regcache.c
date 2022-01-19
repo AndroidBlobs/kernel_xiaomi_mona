@@ -3,6 +3,7 @@
 // Register cache access API
 //
 // Copyright 2011 Wolfson Microelectronics plc
+// Copyright (C) 2021 XiaoMi, Inc.
 //
 // Author: Dimitris Papastamos <dp@opensource.wolfsonmicro.com>
 

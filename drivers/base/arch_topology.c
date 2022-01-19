@@ -3,6 +3,7 @@
  * Arch specific cpu topology information
  *
  * Copyright (C) 2016, ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by: Juri Lelli, ARM Ltd.
  */
 
