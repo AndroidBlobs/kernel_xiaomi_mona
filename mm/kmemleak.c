@@ -3,6 +3,7 @@
  * mm/kmemleak.c
  *
  * Copyright (C) 2008 ARM Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Written by Catalin Marinas <catalin.marinas@arm.com>
  *
  * For more information on the algorithm and kmemleak usage, please see

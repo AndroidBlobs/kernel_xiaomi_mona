@@ -3,6 +3,7 @@
  *  linux/mm/memory_hotplug.c
  *
  *  Copyright (C)
+ *  Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/stddef.h>

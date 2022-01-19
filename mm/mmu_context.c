@@ -1,4 +1,5 @@
 /* Copyright (C) 2009 Red Hat, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * See ../COPYING for licensing terms.
  */
