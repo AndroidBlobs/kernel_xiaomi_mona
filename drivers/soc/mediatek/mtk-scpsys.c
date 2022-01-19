@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2015 Pengutronix, Sascha Hauer <kernel@pengutronix.de>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/clk.h>
 #include <linux/init.h>

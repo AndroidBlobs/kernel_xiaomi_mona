@@ -3,6 +3,7 @@
  * Keystone Queue Manager subsystem driver
  *
  * Copyright (C) 2014 Texas Instruments Incorporated - http://www.ti.com
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors:	Sandeep Nair <sandeep_n@ti.com>
  *		Cyril Chemparathy <cyril@ti.com>
  *		Santosh Shilimkar <santosh.shilimkar@ti.com>

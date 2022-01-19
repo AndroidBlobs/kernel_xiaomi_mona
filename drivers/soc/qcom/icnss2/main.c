@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2015-2020, 2021, The Linux Foundation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * All rights reserved.
  */
 
@@ -565,7 +566,7 @@ static int icnss_setup_dms_mac(struct icnss_priv *priv)
 		}
 		if (!priv->dms.nv_mac_not_prov && !priv->dms.mac_valid) {
 			icnss_pr_err("Unable to get MAC from DMS after retries\n");
-			ICNSS_ASSERT(0);
+			//ICNSS_ASSERT(0);
 			return -EINVAL;
 		}
 	}
@@ -850,6 +851,7 @@ static int icnss_driver_event_fw_ready_ind(struct icnss_priv *priv, void *data)
 
 	set_bit(ICNSS_FW_READY, &priv->state);
 	clear_bit(ICNSS_MODE_ON, &priv->state);
+	atomic_set(&priv->soc_wake_ref_count, 0);
 
 	if (priv->device_id == WCN6750_DEVICE_ID)
 		icnss_free_qdss_mem(priv);
@@ -1090,6 +1092,12 @@ static int icnss_event_soc_wake_request(struct icnss_priv *priv, void *data)
 
 	if (!priv)
 		return -ENODEV;
+
+	if (atomic_inc_not_zero(&priv->soc_wake_ref_count)) {
+		icnss_pr_dbg("SOC awake after posting work, Ref count: %d",
+			     atomic_read(&priv->soc_wake_ref_count));
+		return 0;
+	}
 
 	ret = wlfw_send_soc_wake_msg(priv, QMI_WLFW_WAKE_REQUEST_V01);
 	if (!ret)
@@ -3650,6 +3658,8 @@ static int icnss_smmu_fault_handler(struct iommu_domain *domain,
 
 	if (test_bit(ICNSS_FW_READY, &priv->state)) {
 		fw_down_data.crashed = true;
+		icnss_call_driver_uevent(priv, ICNSS_UEVENT_SMMU_FAULT,
+					 &fw_down_data);
 		icnss_call_driver_uevent(priv, ICNSS_UEVENT_FW_DOWN,
 					 &fw_down_data);
 	}
@@ -3894,7 +3904,7 @@ static int icnss_probe(struct platform_device *pdev)
 	INIT_LIST_HEAD(&priv->event_list);
 
 	priv->soc_wake_wq = alloc_workqueue("icnss_soc_wake_event",
-					    WQ_UNBOUND, 1);
+					    WQ_UNBOUND|WQ_HIGHPRI, 1);
 	if (!priv->soc_wake_wq) {
 		icnss_pr_err("Soc wake Workqueue creation failed\n");
 		ret = -EFAULT;

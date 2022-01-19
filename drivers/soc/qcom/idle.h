@@ -2,6 +2,7 @@
 
 /*
  * Copyright (c) 2007-2009,2012-2014, 2018-2019, 2021 The Linux Foundation.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ARCH_ARM_MACH_MSM_IDLE_H_

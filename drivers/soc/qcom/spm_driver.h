@@ -2,6 +2,7 @@
 
 /*
  * Copyright (c) 2011-2017, 2020-2021, The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef __ARCH_ARM_MACH_MSM_SPM_DEVICES_H

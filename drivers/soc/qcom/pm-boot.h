@@ -2,6 +2,7 @@
 
 /*
  * Copyright (c) 2011-2014, 2018-2019, 2021 The Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #ifndef _ARCH_ARM_MACH_MSM_PM_BOOT_H

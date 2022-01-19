@@ -1,5 +1,6 @@
 /*
  * Copyright (C) 2014 Texas Instruments Incorporated
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Authors:	Santosh Shilimkar <santosh.shilimkar@ti.com>
  *		Sandeep Nair <sandeep_n@ti.com>
  *		Cyril Chemparathy <cyril@ti.com>

@@ -3,6 +3,7 @@
  * Crypto virtual library for storage encryption.
  *
  * Copyright (c) 2021, Linux Foundation. All rights reserved.
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 #include <linux/kernel.h>
 #include <linux/module.h>
