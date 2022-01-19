@@ -2,6 +2,7 @@
  * CPU Frequency Scaling for Loongson 1 SoC
  *
  * Copyright (C) 2014-2016 Zhang, Keguang <keguang.zhang@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This file is licensed under the terms of the GNU General Public
  * License version 2. This program is licensed "as is" without any

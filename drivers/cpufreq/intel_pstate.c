@@ -3,6 +3,7 @@
  * intel_pstate.c: Native P state management for Intel processors
  *
  * (C) Copyright 2012 Intel Corporation
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  * Author: Dirk Brandewie <dirk.j.brandewie@intel.com>
  */
 

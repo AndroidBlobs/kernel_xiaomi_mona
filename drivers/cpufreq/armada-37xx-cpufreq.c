@@ -3,6 +3,7 @@
  * CPU frequency scaling support for Armada 37xx platform.
  *
  * Copyright (C) 2017 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Gregory CLEMENT <gregory.clement@free-electrons.com>
  */

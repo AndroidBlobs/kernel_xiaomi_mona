@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (C) 2012 Calxeda, Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * This driver provides the clk notifier callbacks that are used when
  * the cpufreq-dt driver changes to frequency to alert the highbank

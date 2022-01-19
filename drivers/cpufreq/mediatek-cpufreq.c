@@ -1,6 +1,7 @@
 // SPDX-License-Identifier: GPL-2.0-only
 /*
  * Copyright (c) 2015 Linaro Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Author: Pi-Cheng Chen <pi-cheng.chen@linaro.org>
  */
 

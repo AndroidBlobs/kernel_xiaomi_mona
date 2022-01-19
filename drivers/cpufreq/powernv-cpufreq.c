@@ -3,6 +3,7 @@
  * POWERNV cpufreq driver for the IBM POWER processors
  *
  * (C) Copyright IBM 2014
+ * (C) Copyright (C) 2021 XiaoMi, Inc.
  *
  * Author: Vaidyanathan Srinivasan <svaidy at linux.vnet.ibm.com>
  */

@@ -6,6 +6,7 @@
  * provide the OPP framework with required information.
  *
  * Copyright (C) 2019 Yangtao Li <tiny.windzz@gmail.com>
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #define pr_fmt(fmt) KBUILD_MODNAME ": " fmt

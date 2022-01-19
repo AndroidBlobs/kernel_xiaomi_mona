@@ -3,6 +3,7 @@
  * CPUFreq support for Armada 8K
  *
  * Copyright (C) 2018 Marvell
+ * Copyright (C) 2021 XiaoMi, Inc.
  *
  * Omri Itach <omrii@marvell.com>
  * Gregory Clement <gregory.clement@bootlin.com>

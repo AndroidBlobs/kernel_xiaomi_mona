@@ -6,6 +6,7 @@
  *         Lee Jones <lee.jones@linaro.org>
  *
  * Copyright (C) 2015 STMicroelectronics (R&D) Limited
+ * Copyright (C) 2021 XiaoMi, Inc.
  */
 
 #include <linux/cpu.h>

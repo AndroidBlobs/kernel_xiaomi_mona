@@ -4,6 +4,7 @@
  * It provides necessary ops to arm_big_little cpufreq driver.
  *
  * Copyright (C) 2015 ARM Ltd.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Sudeep Holla <sudeep.holla@arm.com>
  *
  * This program is free software; you can redistribute it and/or modify
