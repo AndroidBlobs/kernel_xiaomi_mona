@@ -3,6 +3,7 @@
  * OMAP4 thermal driver.
  *
  * Copyright (C) 2011-2012 Texas Instruments Inc.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Contact:
  *	Eduardo Valentin <eduardo.valentin@ti.com>
  */

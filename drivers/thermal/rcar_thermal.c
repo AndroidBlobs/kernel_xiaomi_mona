@@ -3,6 +3,7 @@
  *  R-Car THS/TSC thermal sensor driver
  *
  * Copyright (C) 2012 Renesas Solutions Corp.
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Kuninori Morimoto <kuninori.morimoto.gx@renesas.com>
  */
 #include <linux/delay.h>

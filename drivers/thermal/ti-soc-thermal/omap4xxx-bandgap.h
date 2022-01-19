@@ -3,6 +3,7 @@
  * OMAP4xxx bandgap registers, bitfields and temperature definitions
  *
  * Copyright (C) 2013 Texas Instruments Incorporated - http://www.ti.com/
+ * Copyright (C) 2021 XiaoMi, Inc.
  * Contact:
  *   Eduardo Valentin <eduardo.valentin@ti.com>
  */
